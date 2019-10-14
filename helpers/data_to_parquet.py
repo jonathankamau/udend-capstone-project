@@ -3,22 +3,29 @@ import os
 import boto3
 from pyspark import SparkConf
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import (monotonically_increasing_id)
-
-
-config = configparser.ConfigParser()
-config.read('../aws.cfg')
-
-os.environ['AWS_ACCESS_KEY_ID'] = config['AWS']['AWS_ACCESS_KEY_ID']
-os.environ['AWS_SECRET_ACCESS_KEY'] = config['AWS']['AWS_SECRET_ACCESS_KEY']
+from pyspark.sql.functions import split, monotonically_increasing_id
 
 
 class SaveToParquet:
 
-    def create_spark_session():
+    def __init__(self):
+        config = configparser.ConfigParser()
+        config.read('../aws.cfg')
+        self.aws_id = config['AWS']['AWS_ACCESS_KEY_ID']
+        self.aws_secret_key = config['AWS']['AWS_SECRET_ACCESS_KEY']
+        self.aws_default_region = config['AWS']['DEFAULT_REGION']
+        self.input_data = config['DATA']['INPUT_DATA_PATH']
+        self.output_data = config['DATA']['OUTPUT_DATA_PATH']
+        self.bucket_name = config['DATA']['BUCKET_NAME']
+        self.local_output = config['DATA']['LOCAL_OUTPUT']
+        self.local_output_data_path = config['DATA']['LOCAL_OUTPUT_DATA_PATH']
+
+    def create_spark_session(self):
         conf = SparkConf()
-        conf.set("spark.jars.packages",
-                 "saurfang:spark-sas7bdat:2.0.0-s_2.11,org.apache.hadoop:hadoop-aws:2.7.0")
+        conf.set(
+            "spark.jars.packages",
+            "saurfang:spark-sas7bdat:2.0.0-s_2.11,org.apache.hadoop:hadoop-aws:2.7.0")
+
         """Create a apache spark session."""
         spark = SparkSession \
             .builder \
@@ -28,12 +35,12 @@ class SaveToParquet:
         print('Spark Session has been successfully created!')
         return spark
 
-    def create_s3_bucket(bucket_name):
+    def create_s3_bucket(self, bucket_name):
         s3_resource = boto3.client(
             's3',
-            region_name=config['AWS']['DEFAULT_REGION'],
-            aws_access_key_id=config['AWS']['AWS_ACCESS_KEY_ID'],
-            aws_secret_access_key=config['AWS']['AWS_SECRET_ACCESS_KEY']
+            region_name=self.aws_default_region,
+            aws_access_key_id=self.aws_id,
+            aws_secret_access_key=self.aws_secret_key
         )
         print('s3 resource has been set!')
 
@@ -50,11 +57,11 @@ class SaveToParquet:
 
         print('s3 bucket has been successfully created!')
 
-    def process_immigration_data(spark, input_data, output_data):
+    def process_immigration_data(self, spark, input_data, output_data):
         """
         Load data from the defined datasets and extract columns
         for the respective tables and write the data into parquet
-        files which will be loaded on s3.
+        files which will be loaded on the specified file storage location.
 
         Parameters
         ----------
@@ -71,11 +78,15 @@ class SaveToParquet:
         # to a spark dataframe
         print('Reading the immigration dataset...')
 
-        immigration_data = input_data + \
-            'immigration_data/18-83510-I94-Data-2016/i94_sep16_sub.sas7bdat'
+        dir_list = os.listdir(input_data +
+                              'immigration_data/fourth-quarter-2016/')
 
-        immigration_df = spark.read.format(
-            'com.github.saurfang.sas.spark').load(immigration_data)
+        for sas_file in dir_list:
+            immigration_data = input_data + \
+                'immigration_data/fourth-quarter-2016/' + sas_file
+            print('reading data from '+immigration_data+'...')
+            immigration_df = spark.read.format(
+                'com.github.saurfang.sas.spark').load(immigration_data)
 
         print('Immigration data has been loaded to the dataframe!')
 
@@ -111,17 +122,17 @@ class SaveToParquet:
         # write immigration table to parquet files
         immigration_table.write.partitionBy(
             'city', 'month').parquet(os.path.join(output_data,
-                                     'immigration/immigration_data.parquet'),
+                                                  'immigration/immigration_data.parquet'),
                                      'overwrite')
 
         print(
-            'The immigration table was successfully written to parquet on s3!')
+            'The immigration table was successfully written to parquet!')
 
-    def process_temperature_data(spark, input_data, output_data):
+    def process_temperature_data(self, spark, input_data, output_data):
         """
         Load data from the temperature csv file and extract columns
         for the temperature_data table and write the data into a parquet
-        file which will be loaded on s3.
+        file which will be loaded on the specified file storage location.
 
         Parameters
         ----------
@@ -141,7 +152,11 @@ class SaveToParquet:
         temperature_data = input_data + \
             'temperature_data/GlobalLandTemperaturesByCity.csv'
 
-        temperature_df = spark.read.load(temperature_data, format="csv")
+        temperature_df = spark.read.load(
+            temperature_data,
+            format="csv",
+            header="true"
+        )
 
         print('Temperature data has been loaded to the dataframe!')
 
@@ -157,7 +172,7 @@ class SaveToParquet:
                                'average_temperature') \
             .withColumnRenamed('City', 'city') \
             .withColumnRenamed('Latitude', 'latitude') \
-            .withColumnRenamed('Longitude', 'logitude') \
+            .withColumnRenamed('Longitude', 'longitude') \
             .dropDuplicates()
 
         print(
@@ -170,13 +185,13 @@ class SaveToParquet:
             'overwrite')
 
         print(
-            'The temperature table was successfully written to parquet on s3!')
+            'The temperature table was successfully written to parquet!')
 
-    def process_airport_data(spark, input_data, output_data):
+    def process_airport_data(self, spark, input_data, output_data):
         """
         Load data from the airport_code csv file and extract columns
         for the airport_data table and write the data into a parquet
-        file which will be loaded on s3.
+        file which will be loaded on the specified file storage location.
 
         Parameters
         ----------
@@ -195,14 +210,18 @@ class SaveToParquet:
 
         airport_data = input_data + 'airport-codes.csv'
 
-        df = spark.read.load(airport_data, format="csv")
+        df = spark.read.load(
+            airport_data,
+            format="csv",
+            header="true"
+        )
 
         airport_table = df.select('ident', 'type',
                                   'name', 'continent',
                                   'iso_country', 'iso_region') \
             .withColumnRenamed('ident', 'airport_code') \
             .withColumnRenamed('iso_country', 'country_code') \
-            .withColumn('region', split('iso_region', '-')(1)) \
+            .withColumn('region', split('iso_region', '-')[1]) \
             .dropDuplicates()
 
         print('Airport data has been loaded to the dataframe!')
@@ -214,13 +233,13 @@ class SaveToParquet:
             'overwrite')
 
         print(
-            'The airport table was successfully written to parquet on s3!')
+            'The airport table was successfully written to parquet!')
 
-    def process_demographics_data(spark, input_data, output_data):
+    def process_demographics_data(self, spark, input_data, output_data):
         """
         Load data from the us_cities_demographics csv file and extract columns
         for the demographics_data table and write the data into a parquet
-        file which will be loaded on s3.
+        file which will be loaded on the specified file storage location.
 
         Parameters
         ----------
@@ -239,7 +258,12 @@ class SaveToParquet:
 
         demographics_data = input_data + 'us-cities-demographics.csv'
 
-        df = spark.read.load(demographics_data, sep=';', format="csv")
+        df = spark.read.load(
+            demographics_data,
+            sep=';',
+            format="csv",
+            header="true"
+        )
 
         demographics_table = df.select('City', 'State',
                                        'Male Population',
@@ -264,11 +288,12 @@ class SaveToParquet:
             'overwrite')
 
         print(
-            'The demographics table was successfully written to parquet on s3!')
+            'The demographics table was successfully written to parquet!')
 
-    def main(self):
+    def execute(self):
         """
         Perform the following roles:
+
         1.) Create the local directory or s3 bucket on AWS.
         2.) Get or create a spark session.
         3.) Read the song and log data.
@@ -276,24 +301,19 @@ class SaveToParquet:
         which will then be written to parquet files.
         5.) Load the parquet files on the chosen storage location.
         """
-
-        input_data = config['DATA']['INPUT_DATA']
-        output_data = config['DATA']['OUTPUT_DATA']
-        bucket_name = config['DATA']['BUCKET_NAME']
-        local_output = config['DATA']['LOCAL_OUTPUT']
-
-        if local_output:
-            output_data = config['DATA']['LOCAL_OUTPUT_DATA_PATH']
+        if self.local_output:
+            self.output_data = self.local_output_data_path
         else:
-            self.create_s3_bucket(bucket_name)
+            self.create_s3_bucket(self.bucket_name)
 
         spark = self.create_spark_session()
 
-        method_arguments = (spark, input_data, output_data)
+        method_arguments = (spark, self.input_data, self.output_data)
+        # self.process_airport_data(*method_arguments)
+        # self.process_demographics_data(*method_arguments)
+        # self.process_temperature_data(*method_arguments)
         self.process_immigration_data(*method_arguments)
-        self.process_temperature_data(*method_arguments)
-        self.process_airport_data(*method_arguments)
-        self.process_demographics_data(*method_arguments)
 
-    if __name__ == "__main__":
-        main()
+
+save_to_parquet = SaveToParquet()
+save_to_parquet.execute()

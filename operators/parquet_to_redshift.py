@@ -10,6 +10,14 @@ class ParquetToRedshiftOperator(BaseOperator):
     """
 
     ui_color = '#358140'
+    copy_query = """
+        COPY {}
+        FROM '{}'
+        ACCESS_KEY_ID '{}'
+        SECRET_ACCESS_KEY '{}'
+        FORMAT AS '{}'
+        {}
+    """
 
     @apply_defaults
     def __init__(self,

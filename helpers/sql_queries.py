@@ -1,53 +1,55 @@
 class SQLQueries:
-    immigration_data_table_create = (
+    immigration_staging_table_create = (
         """
         CREATE TABLE IF NOT EXISTS immigration_data (
-            cicid NUMERIC,
-            194yr NUMERIC,
-            194mon NUMERIC,
-            194cit NUMERIC,
-            194res NUMERIC,
-            194port NUMERIC,
-            arrdate NUMERIC,
-            i94ddr VARCHAR,
-            depdate NUMERIC,
-            194bir NUMERIC,
-            i94visa NUMERIC,
+            visitor_id NUMERIC,
+            immigration_id NUMERIC,
+            year NUMERIC,
+            month NUMERIC,
+            city NUMERIC,
+            country NUMERIC,
+            port_of_entry NUMERIC,
+            arrival_date NUMERIC,
+            address_code VARCHAR,
+            departure_date NUMERIC,
+            age NUMERIC,
+            visa_code NUMERIC,
             gender VARCHAR,
-            airline VARCHAR)
+            airline VARCHAR,
+            visa_type VARCHAR,
+            )
         """
         )
 
-    temperature_data_table_create = (
+    temperature_staging_table_create = (
         """
         CREATE TABLE IF NOT EXISTS temperature_data (
-            dt DATE,
-            AverageTemperature NUMERIC,
-            AverageTemperatureUncertainty NUMERIC,
-            City NUMERIC,
-            Latitude VARCHAR,
-            Longitude VARCHAR)
+            date DATE,
+            average_temperature NUMERIC,
+            city NUMERIC,
+            latitude VARCHAR,
+            longitude VARCHAR)
         """
         )
 
-    airport_data_table_create = (
+    airport_staging_table_create = (
         """
         CREATE TABLE IF NOT EXISTS airport_data (
-            type VARCHAR,
+            airport_code VARCHAR,
             name VARCHAR,
             continent VRCHAR,
-            iso_country VARCHAR,
-            iso_region VARCHAR
+            country_code VARCHAR,
+            region VARCHAR
         """
         )
 
-    demographics_data_table_create = (
+    demographics_staging_table_create = (
         """
         CREATE TABLE IF NOT EXISTS demographics_data (
-            City VARCHAR,
-            State VARCHAR,
+            city VARCHAR,
+            state VARCHAR,
             male_population NUMERIC,
-            female_poplulation VARCHAR,
-            total_polulation VARCHAR)
+            female_population VARCHAR,
+            total_population VARCHAR)
         """
         )
