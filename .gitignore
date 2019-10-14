@@ -10,7 +10,8 @@ unittests.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-plugins/helpers/__pycache__/
+*/__pycache__/
 *.py[cod]
+*.pyc
 
 aws.cfg

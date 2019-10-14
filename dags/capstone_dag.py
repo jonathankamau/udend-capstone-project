@@ -29,20 +29,14 @@ start_data_to_redshift_operation = DummyOperator(
 end_data_to_redshift_operation = DummyOperator(
     task_id='Completed_Migrating_Data_To_Redshift',  dag=dag)
 
-table_dictionary = {
-    'immigration': 'immigration_data',
-    'temperature': 'temperature_data',
-    'airport': 'airport_data',
-    'demographics': 'demographics_data'
-}
-
 for table_name, data_type in table_dictionary.items():
     stage_data_to_redshift = ParquetToRedshiftOperator(
-        task_id='Stage_{table_name}',
+        task_id='Stage_' + table_name,
         dag=dag,
         provide_context=True,
         table=data_type,
         drop_table=True,
+        file_path='processed_data/' + table_name,
         aws_connection_id='aws_credentials',
         redshift_connection_id='redshift',
         create_query=SqlQueries.immigration_staging_table_create,

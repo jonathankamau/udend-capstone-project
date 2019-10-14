@@ -23,6 +23,7 @@ class ParquetToRedshiftOperator(BaseOperator):
     def __init__(self,
                  table,
                  drop_table,
+                 file_path,
                  aws_connection_id,
                  redshift_connection_id,
                  create_query,
@@ -32,6 +33,7 @@ class ParquetToRedshiftOperator(BaseOperator):
         super(ParquetToRedshiftOperator, self).__init__(*args, **kwargs)
         self.table = table
         self.drop_table = drop_table
+        self.file_path = file_path
         self.aws_connection_id = aws_connection_id
         self.redshift_connection_id = redshift_connection_id
         self.create_query = create_query
@@ -43,7 +45,7 @@ class ParquetToRedshiftOperator(BaseOperator):
 
         formatted_query = ParquetToRedshiftOperator.copy_query.format(
             self.table,
-            s3_path,
+            self.file_path,
             credentials.access_key,
             credentials.secret_key,
             self.copy_options
