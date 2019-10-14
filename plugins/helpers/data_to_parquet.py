@@ -1,7 +1,6 @@
 import configparser
 import os
 import boto3
-import logging
 from pyspark import SparkConf
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import split, monotonically_increasing_id
@@ -12,7 +11,6 @@ class SaveToParquet:
     def __init__(self):
         config = configparser.ConfigParser()
         config.read('aws.cfg')
-        logging.info(config['AWS'])
         self.aws_id = config['AWS']['AWS_ACCESS_KEY_ID']
         self.aws_secret_key = config['AWS']['AWS_SECRET_ACCESS_KEY']
         self.aws_default_region = config['AWS']['DEFAULT_REGION']
@@ -311,11 +309,7 @@ class SaveToParquet:
         spark = self.create_spark_session()
 
         method_arguments = (spark, self.input_data, self.output_data)
-        # self.process_airport_data(*method_arguments)
-        # self.process_demographics_data(*method_arguments)
-        # self.process_temperature_data(*method_arguments)
+        self.process_airport_data(*method_arguments)
+        self.process_demographics_data(*method_arguments)
+        self.process_temperature_data(*method_arguments)
         self.process_immigration_data(*method_arguments)
-
-
-save_to_parquet = SaveToParquet()
-save_to_parquet.execute()

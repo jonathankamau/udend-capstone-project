@@ -7,4 +7,8 @@ data/temperature_data/
 sas_data/
 logs/
 unittests.cfg
-dags/__pycache__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+plugins/helpers/__pycache__/
+*.py[cod]
