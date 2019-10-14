@@ -26,8 +26,6 @@ class ParquetToRedshiftOperator(BaseOperator):
                  aws_connection_id,
                  redshift_connection_id,
                  create_query,
-                 s3_bucket,
-                 s3_key,
                  copy_options,
                  *args, **kwargs):
 
@@ -37,16 +35,11 @@ class ParquetToRedshiftOperator(BaseOperator):
         self.aws_connection_id = aws_connection_id
         self.redshift_connection_id = redshift_connection_id
         self.create_query = create_query
-        self.s3_bucket = s3_bucket
-        self.s3_key = s3_key
         self.copy_options = copy_options
 
     def execute(self, context):
         self.aws_instance = AwsHook(aws_conn_id=self.aws_connection_id)
         credentials = self.aws_instance.get_credentials()
-        
-        rendered_key = self.s3_key.format(**context)
-        s3_path = "s3://{}/{}".format(self.s3_bucket, rendered_key)
 
         formatted_query = ParquetToRedshiftOperator.copy_query.format(
             self.table,

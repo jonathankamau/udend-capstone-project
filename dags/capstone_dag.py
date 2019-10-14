@@ -36,7 +36,7 @@ table_dictionary = {
     'demographics': 'demographics_data'
 }
 
-for table_name, data_type in table_dictionary:
+for table_name, data_type in table_dictionary.items():
     stage_data_to_redshift = ParquetToRedshiftOperator(
         task_id='Stage_{table_name}',
         dag=dag,
