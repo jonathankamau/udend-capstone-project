@@ -12,3 +12,5 @@ unittests.cfg
 __pycache__/
 plugins/helpers/__pycache__/
 *.py[cod]
+
+aws.cfg
