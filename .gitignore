@@ -7,3 +7,4 @@ data/temperature_data/
 sas_data/
 logs/
 unittests.cfg
+dags/__pycache__/
