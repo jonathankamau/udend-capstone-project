@@ -3,8 +3,7 @@
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.dummy_operator import DummyOperator
-from airflow.operators import (StageToRedshiftOperator, LoadFactOperator,
-                               LoadDimensionOperator, DataQualityOperator)
+from airflow.operators import ParquetToRedshiftOperator
 from helpers import SqlQueries
 
 default_args = {
@@ -30,8 +29,7 @@ start_data_to_redshift_operation = DummyOperator(
 end_data_to_redshift_operation = DummyOperator(
     task_id='Completed_Migrating_Data_To_Redshift',  dag=dag)
 
-table_dictionary = 
-{
+table_dictionary = {
     'immigration': 'immigration_data',
     'temperature': 'temperature_data',
     'airport': 'airport_data',
@@ -39,7 +37,7 @@ table_dictionary =
 }
 
 for table_name, data_type in table_dictionary:
-    stage_data_to_redshift = StageToRedshiftOperator(
+    stage_data_to_redshift = ParquetToRedshiftOperator(
         task_id='Stage_{table_name}',
         dag=dag,
         provide_context=True,
