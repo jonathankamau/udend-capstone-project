@@ -2,16 +2,8 @@
 I94_SAS_Labels_Descriptions.SAS
 Capstone Project Template (1).ipynb
 
-data/immigration_data/18-83510-I94-Data-2016/i94_apr16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_aug16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_dec16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_feb16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_jan16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_jul16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_jun16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_mar16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_may16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_nov16_sub.sas7bdat
-data/immigration_data/18-83510-I94-Data-2016/i94_oct16_sub.sas7bdat
-
+data/immigration_data/
+data/temperature_data/
 sas_data/
+logs/
+unittests.cfg
