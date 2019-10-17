@@ -1,0 +1,768 @@
+{"date":"2012-12-01","average_temperature":"-14.296","city":"Ürümqi","latitude":"44.20N","longitude":"87.20E"}
+{"date":"2013-07-01","average_temperature":"38.001","city":"Abadan","latitude":"29.74N","longitude":"48.00E"}
+{"date":"2011-05-01","average_temperature":"28.171","city":"Abakaliki","latitude":"5.63N","longitude":"8.07E"}
+{"date":"2010-04-01","average_temperature":"29.387","city":"Abeokuta","latitude":"7.23N","longitude":"4.05E"}
+{"date":"2013-02-01","average_temperature":"-17.546999999999993","city":"Achinsk","latitude":"57.05N","longitude":"90.00E"}
+{"date":"2011-04-01","average_temperature":"27.647","city":"Aden","latitude":"13.66N","longitude":"45.41E"}
+{"date":"2011-01-01","average_temperature":"0.8170000000000001","city":"Ageo","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2013-02-01","average_temperature":"18.257","city":"Agra","latitude":"26.52N","longitude":"78.81E"}
+{"date":"2010-04-01","average_temperature":"33.126000000000005","city":"Ahmadabad","latitude":"23.31N","longitude":"72.52E"}
+{"date":"2012-04-01","average_temperature":"31.195","city":"Ahmadabad","latitude":"23.31N","longitude":"72.52E"}
+{"date":"2013-04-01","average_temperature":"29.035999999999998","city":"Ahmadnagar","latitude":"18.48N","longitude":"74.37E"}
+{"date":"2012-10-01","average_temperature":"17.55","city":"Akashi","latitude":"34.56N","longitude":"134.27E"}
+{"date":"2012-06-01","average_temperature":"18.011","city":"Akita","latitude":"39.38N","longitude":"139.42E"}
+{"date":"2013-07-01","average_temperature":"24.686","city":"Alagoinhas","latitude":"12.05S","longitude":"37.81W"}
+{"date":"2013-05-01","average_temperature":"34.587","city":"Alandur","latitude":"13.66N","longitude":"80.09E"}
+{"date":"2012-06-01","average_temperature":"20.234","city":"Alcobendas","latitude":"40.99N","longitude":"4.26W"}
+{"date":"2011-04-01","average_temperature":"19.12","city":"Alexandria","latitude":"31.35N","longitude":"30.16E"}
+{"date":"2013-04-01","average_temperature":"16.444000000000003","city":"Algeciras","latitude":"36.17N","longitude":"5.97W"}
+{"date":"2013-03-01","average_temperature":"13.245999999999999","city":"Algiers","latitude":"36.17N","longitude":"3.98E"}
+{"date":"2013-04-01","average_temperature":"15.489","city":"Algiers","latitude":"36.17N","longitude":"3.98E"}
+{"date":"2013-03-01","average_temperature":"24.025","city":"Aligarh","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2013-05-01","average_temperature":"35.389","city":"Allahabad","latitude":"24.92N","longitude":"81.58E"}
+{"date":"2012-06-01","average_temperature":"20.165","city":"Allentown","latitude":"40.99N","longitude":"74.56W"}
+{"date":"2011-06-01","average_temperature":"28.848000000000006","city":"Alor Setar","latitude":"5.63N","longitude":"100.09E"}
+{"date":"2011-07-01","average_temperature":"29.326999999999998","city":"Ambala","latitude":"29.74N","longitude":"77.54E"}
+{"date":"2012-12-01","average_temperature":"14.978","city":"Ambala","latitude":"29.74N","longitude":"77.54E"}
+{"date":"2013-05-01","average_temperature":"32.561","city":"Ambala","latitude":"29.74N","longitude":"77.54E"}
+{"date":"2011-12-01","average_temperature":"6.955","city":"Amiens","latitude":"49.03N","longitude":"2.45E"}
+{"date":"2012-01-01","average_temperature":"5.867000000000001","city":"Amiens","latitude":"49.03N","longitude":"2.45E"}
+{"date":"2012-04-01","average_temperature":"8.101","city":"Amsterdam","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2010-06-01","average_temperature":"27.331999999999997","city":"Ananindeua","latitude":"0.80S","longitude":"49.02W"}
+{"date":"2013-06-01","average_temperature":"29.279","city":"Anantapur","latitude":"15.27N","longitude":"77.50E"}
+{"date":"2013-02-01","average_temperature":"-8.242","city":"Anshan","latitude":"40.99N","longitude":"123.55E"}
+{"date":"2010-05-01","average_temperature":"14.555","city":"Antioch","latitude":"37.78N","longitude":"122.03W"}
+{"date":"2010-10-01","average_temperature":"11.249","city":"Anyang","latitude":"36.17N","longitude":"113.37E"}
+{"date":"2011-09-01","average_temperature":"14.849","city":"Aqtöbe","latitude":"50.63N","longitude":"57.04E"}
+{"date":"2011-12-01","average_temperature":"26.576","city":"Araçatuba","latitude":"21.70S","longitude":"51.06W"}
+{"date":"2012-08-01","average_temperature":"24.568","city":"Arapiraca","latitude":"10.45S","longitude":"36.82W"}
+{"date":"2013-02-01","average_temperature":"-7.809000000000001","city":"Asahikawa","latitude":"44.20N","longitude":"143.11E"}
+{"date":"2012-02-01","average_temperature":"25.362","city":"Astanajapura","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2011-11-01","average_temperature":"21.416999999999998","city":"Aswan","latitude":"23.31N","longitude":"32.33E"}
+{"date":"2010-05-01","average_temperature":"16.337","city":"Atsugi","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2012-01-01","average_temperature":"0.7640000000000002","city":"Aurora","latitude":"39.38N","longitude":"104.05W"}
+{"date":"2010-09-01","average_temperature":"11.623","city":"Ayacucho","latitude":"13.66S","longitude":"73.49W"}
+{"date":"2012-03-01","average_temperature":"28.898000000000003","city":"Azare","latitude":"12.05N","longitude":"9.86E"}
+{"date":"2011-01-01","average_temperature":"3.326","city":"Babol","latitude":"36.17N","longitude":"51.71E"}
+{"date":"2013-09-01","city":"Badajoz","latitude":"39.38N","longitude":"6.24W"}
+{"date":"2010-03-01","average_temperature":"19.643","city":"Bahia Blanca","latitude":"39.38S","longitude":"62.43W"}
+{"date":"2010-01-01","average_temperature":"18.852","city":"Bahir Dar","latitude":"12.05N","longitude":"37.81E"}
+{"date":"2010-08-01","average_temperature":"30.226","city":"Baidyabati","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2012-03-01","average_temperature":"27.878","city":"Baidyabati","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2011-12-01","average_temperature":"-0.8680000000000003","city":"Balashikha","latitude":"55.45N","longitude":"36.85E"}
+{"date":"2011-02-01","average_temperature":"19.32","city":"Ballia","latitude":"26.52N","longitude":"84.18E"}
+{"date":"2011-05-01","average_temperature":"33.809","city":"Bama","latitude":"12.05N","longitude":"13.15E"}
+{"date":"2012-07-01","average_temperature":"26.755","city":"Bamako","latitude":"12.05N","longitude":"8.22W"}
+{"date":"2011-07-01","average_temperature":"20.291","city":"Banja Luka","latitude":"44.20N","longitude":"17.89E"}
+{"date":"2011-11-01","average_temperature":"3.2","city":"Banja Luka","latitude":"44.20N","longitude":"17.89E"}
+{"date":"2013-04-01","average_temperature":"12.183","city":"Baoji","latitude":"34.56N","longitude":"107.03E"}
+{"date":"2013-04-01","average_temperature":"4.657","city":"Barrie","latitude":"44.20N","longitude":"80.50W"}
+{"date":"2010-04-01","average_temperature":"33.216","city":"Barsi","latitude":"18.48N","longitude":"76.06E"}
+{"date":"2011-03-01","average_temperature":"4.699999999999998","city":"Basel","latitude":"47.42N","longitude":"8.29E"}
+{"date":"2013-01-01","average_temperature":"14.181","city":"Bat Yam","latitude":"31.35N","longitude":"33.93E"}
+{"date":"2011-08-01","average_temperature":"24.381","city":"Bata","latitude":"2.41N","longitude":"10.45E"}
+{"date":"2011-04-01","average_temperature":"9.03","city":"Bataysk","latitude":"47.42N","longitude":"39.08E"}
+{"date":"2013-05-01","average_temperature":"20.115","city":"Batman","latitude":"37.78N","longitude":"40.68E"}
+{"date":"2013-01-01","average_temperature":"25.078000000000003","city":"Bauchi","latitude":"10.45N","longitude":"10.64E"}
+{"date":"2010-09-01","average_temperature":"27.48","city":"Beaumont","latitude":"29.74N","longitude":"94.15W"}
+{"date":"2012-10-01","average_temperature":"27.316999999999997","city":"Bekasi","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2013-06-01","average_temperature":"27.23","city":"Belém","latitude":"0.80S","longitude":"49.02W"}
+{"date":"2013-04-01","average_temperature":"9.402","city":"Belgorod","latitude":"50.63N","longitude":"36.76E"}
+{"date":"2013-08-01","average_temperature":"27.24","city":"Bene Beraq","latitude":"32.95N","longitude":"35.43E"}
+{"date":"2013-01-01","average_temperature":"3.227","city":"Beppu","latitude":"32.95N","longitude":"131.17E"}
+{"date":"2010-03-01","average_temperature":"-5.0760000000000005","city":"Berezniki","latitude":"58.66N","longitude":"55.38E"}
+{"date":"2012-09-01","average_temperature":"10.522","city":"Berezniki","latitude":"58.66N","longitude":"55.38E"}
+{"date":"2010-02-01","average_temperature":"11.467","city":"Berkeley","latitude":"37.78N","longitude":"122.03W"}
+{"date":"2010-01-01","average_temperature":"-3.5969999999999995","city":"Bern","latitude":"47.42N","longitude":"8.29E"}
+{"date":"2010-06-01","average_temperature":"9.0","city":"Bethal","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2012-10-01","average_temperature":"25.633000000000003","city":"Bettiah","latitude":"26.52N","longitude":"84.18E"}
+{"date":"2013-05-01","average_temperature":"29.064","city":"Bhadravati","latitude":"13.66N","longitude":"75.14E"}
+{"date":"2010-08-01","average_temperature":"27.87","city":"Bharuch","latitude":"21.70N","longitude":"73.56E"}
+{"date":"2011-03-01","average_temperature":"28.169","city":"Bharuch","latitude":"21.70N","longitude":"73.56E"}
+{"date":"2012-04-01","average_temperature":"31.06","city":"Bharuch","latitude":"21.70N","longitude":"73.56E"}
+{"date":"2010-06-01","average_temperature":"31.093000000000004","city":"Bhimavaram","latitude":"16.87N","longitude":"82.05E"}
+{"date":"2013-07-01","average_temperature":"28.590999999999998","city":"Bhimavaram","latitude":"16.87N","longitude":"82.05E"}
+{"date":"2012-03-01","average_temperature":"26.69","city":"Bhusawal","latitude":"21.70N","longitude":"75.29E"}
+{"date":"2012-02-01","average_temperature":"27.186","city":"Biên Hòa","latitude":"10.45N","longitude":"107.18E"}
+{"date":"2010-02-01","average_temperature":"26.294","city":"Bidar","latitude":"18.48N","longitude":"77.75E"}
+{"date":"2012-03-01","average_temperature":"27.884","city":"Bilaspur","latitude":"21.70N","longitude":"82.21E"}
+{"date":"2012-08-01","average_temperature":"26.955","city":"Bilaspur","latitude":"21.70N","longitude":"82.21E"}
+{"date":"2012-01-01","average_temperature":"5.2139999999999995","city":"Birmingham","latitude":"52.24N","longitude":"2.63W"}
+{"date":"2011-01-01","average_temperature":"5.25","city":"Birmingham","latitude":"32.95N","longitude":"87.13W"}
+{"date":"2011-02-01","average_temperature":"29.372","city":"Birnin Kebbi","latitude":"12.05N","longitude":"4.93E"}
+{"date":"2013-07-01","average_temperature":"17.663","city":"Biysk","latitude":"52.24N","longitude":"84.09E"}
+{"date":"2012-02-01","average_temperature":"3.855","city":"Blackburn","latitude":"53.84N","longitude":"1.36W"}
+{"date":"2012-10-01","average_temperature":"21.653000000000002","city":"Blumenau","latitude":"26.52S","longitude":"48.36W"}
+{"date":"2013-02-01","average_temperature":"0.667","city":"Bochum","latitude":"52.24N","longitude":"7.88E"}
+{"date":"2012-07-01","average_temperature":"26.214000000000002","city":"Bogor","latitude":"7.23S","longitude":"106.22E"}
+{"date":"2011-03-01","average_temperature":"19.733","city":"Boksburg","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2012-05-01","average_temperature":"15.685","city":"Bologna","latitude":"44.20N","longitude":"11.18E"}
+{"date":"2010-08-01","average_temperature":"27.279","city":"Bombay","latitude":"18.48N","longitude":"72.68E"}
+{"date":"2012-11-01","average_temperature":"5.905","city":"Bonn","latitude":"50.63N","longitude":"6.34E"}
+{"date":"2013-01-01","average_temperature":"27.096","city":"Bontang","latitude":"0.80N","longitude":"118.13E"}
+{"date":"2011-06-01","average_temperature":"25.875","city":"Boshan","latitude":"36.17N","longitude":"117.35E"}
+{"date":"2013-07-01","average_temperature":"18.271","city":"Bournemouth","latitude":"50.63N","longitude":"1.27W"}
+{"date":"2011-06-01","average_temperature":"18.734","city":"Braga","latitude":"40.99N","longitude":"8.52W"}
+{"date":"2012-01-01","average_temperature":"21.566999999999997","city":"Bragança Paulista","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2010-12-01","average_temperature":"22.462","city":"Brahmapur","latitude":"18.48N","longitude":"84.51E"}
+{"date":"2012-04-01","average_temperature":"14.713","city":"Brakpan","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2011-11-01","average_temperature":"-11.597000000000001","city":"Bratsk","latitude":"55.45N","longitude":"102.05E"}
+{"date":"2013-08-01","average_temperature":"26.535","city":"Brebes","latitude":"7.23S","longitude":"109.46E"}
+{"date":"2012-04-01","average_temperature":"8.101","city":"Breda","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2013-02-01","average_temperature":"23.589000000000002","city":"Brikama","latitude":"13.66N","longitude":"17.34W"}
+{"date":"2011-12-01","average_temperature":"22.522","city":"Brits","latitude":"24.92S","longitude":"28.37E"}
+{"date":"2011-01-01","average_temperature":"25.991","city":"Bucaramanga","latitude":"7.23N","longitude":"73.78W"}
+{"date":"2013-03-01","average_temperature":"21.495","city":"Bujumbura","latitude":"4.02S","longitude":"29.73E"}
+{"date":"2010-03-01","average_temperature":"26.953000000000003","city":"Bulandshahr","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2011-08-01","average_temperature":"18.383","city":"Bydgoszcz","latitude":"53.84N","longitude":"17.73E"}
+{"date":"2013-09-01","average_temperature":"26.339000000000002","city":"Córdoba","latitude":"18.48N","longitude":"96.34W"}
+{"date":"2012-11-01","average_temperature":"13.123","city":"Córdoba","latitude":"37.78N","longitude":"4.07W"}
+{"date":"2011-10-01","average_temperature":"25.441","city":"Cúa","latitude":"10.45N","longitude":"66.27W"}
+{"date":"2010-01-01","average_temperature":"28.064","city":"Cabimas","latitude":"10.45N","longitude":"71.18W"}
+{"date":"2012-02-01","average_temperature":"25.495","city":"Cagua","latitude":"10.45N","longitude":"67.91W"}
+{"date":"2013-02-01","average_temperature":"27.042","city":"Cainta","latitude":"15.27N","longitude":"120.83E"}
+{"date":"2011-04-01","average_temperature":"26.79","city":"Camaçari","latitude":"12.05S","longitude":"37.81W"}
+{"date":"2013-02-01","average_temperature":"25.529","city":"Campeche","latitude":"20.09N","longitude":"90.43W"}
+{"date":"2011-06-01","average_temperature":"21.448","city":"Campo Grande","latitude":"20.09S","longitude":"54.60W"}
+{"date":"2013-05-01","average_temperature":"8.543999999999999","city":"Canberra","latitude":"36.17S","longitude":"149.17E"}
+{"date":"2013-03-01","average_temperature":"8.529","city":"Cangzhou","latitude":"37.78N","longitude":"115.93E"}
+{"date":"2010-10-01","average_temperature":"27.665","city":"Carúpano","latitude":"10.45N","longitude":"63.00W"}
+{"date":"2011-04-01","average_temperature":"29.513","city":"Carmen","latitude":"18.48N","longitude":"91.27W"}
+{"date":"2010-12-01","average_temperature":"26.537","city":"Cartagena","latitude":"10.45N","longitude":"76.09W"}
+{"date":"2012-10-01","average_temperature":"28.03","city":"Cartagena","latitude":"10.45N","longitude":"76.09W"}
+{"date":"2010-01-01","average_temperature":"12.207","city":"Cartagena","latitude":"37.78N","longitude":"0.00W"}
+{"date":"2011-04-01","average_temperature":"17.895","city":"Casablanca","latitude":"32.95N","longitude":"6.70W"}
+{"date":"2010-12-01","average_temperature":"23.131999999999998","city":"Cascavel","latitude":"24.92S","longitude":"53.20W"}
+{"date":"2011-07-01","average_temperature":"17.136","city":"Cascavel","latitude":"24.92S","longitude":"53.20W"}
+{"date":"2012-01-01","average_temperature":"22.05","city":"Chandrapur","latitude":"20.09N","longitude":"78.48E"}
+{"date":"2010-04-01","average_temperature":"14.770999999999999","city":"Changde","latitude":"28.13N","longitude":"111.82E"}
+{"date":"2012-04-01","average_temperature":"25.975","city":"Charallave","latitude":"10.45N","longitude":"66.27W"}
+{"date":"2010-10-01","average_temperature":"17.426","city":"Chenzhou","latitude":"26.52N","longitude":"112.84E"}
+{"date":"2011-05-01","average_temperature":"15.375","city":"Chernivtsi","latitude":"49.03N","longitude":"26.94E"}
+{"date":"2011-02-01","average_temperature":"24.044","city":"Chiang Mai","latitude":"18.48N","longitude":"99.72E"}
+{"date":"2010-06-01","average_temperature":"19.055","city":"Chicago","latitude":"42.59N","longitude":"87.27W"}
+{"date":"2011-10-01","average_temperature":"9.714","city":"Chifeng","latitude":"42.59N","longitude":"120.00E"}
+{"date":"2010-05-01","average_temperature":"7.778","city":"Chillan","latitude":"36.17S","longitude":"71.60W"}
+{"date":"2010-04-01","average_temperature":"17.656","city":"Chimalhuacán","latitude":"20.09N","longitude":"98.96W"}
+{"date":"2010-08-01","average_temperature":"16.119","city":"Chincha Alta","latitude":"13.66S","longitude":"76.79W"}
+{"date":"2013-03-01","average_temperature":"20.229","city":"Chiniot","latitude":"31.35N","longitude":"73.51E"}
+{"date":"2012-04-01","average_temperature":"18.398","city":"Chizhou","latitude":"31.35N","longitude":"116.86E"}
+{"date":"2012-07-01","average_temperature":"6.760999999999999","city":"Christchurch","latitude":"44.20S","longitude":"172.17E"}
+{"date":"2011-06-01","average_temperature":"25.711","city":"Chuzhou","latitude":"32.95N","longitude":"117.77E"}
+{"date":"2011-12-01","average_temperature":"25.245","city":"Cienfuegos","latitude":"21.70N","longitude":"80.48W"}
+{"date":"2011-11-01","average_temperature":"9.257","city":"Cincinnati","latitude":"39.38N","longitude":"85.32W"}
+{"date":"2012-02-01","average_temperature":"26.691000000000006","city":"Cisaat","latitude":"7.23S","longitude":"106.22E"}
+{"date":"2011-11-01","average_temperature":"26.986","city":"Ciudad Bolívar","latitude":"8.84N","longitude":"64.05W"}
+{"date":"2011-01-01","average_temperature":"16.214000000000002","city":"Ciudad Valles","latitude":"21.70N","longitude":"99.52W"}
+{"date":"2010-10-01","average_temperature":"9.408999999999999","city":"Clermont Ferrand","latitude":"45.81N","longitude":"3.46E"}
+{"date":"2013-03-01","average_temperature":"4.051","city":"Clermont Ferrand","latitude":"45.81N","longitude":"3.46E"}
+{"date":"2013-05-01","average_temperature":"9.593","city":"Clermont Ferrand","latitude":"45.81N","longitude":"3.46E"}
+{"date":"2011-10-01","average_temperature":"11.297","city":"Cleveland","latitude":"40.99N","longitude":"80.95W"}
+{"date":"2012-12-01","average_temperature":"2.938","city":"Cleveland","latitude":"40.99N","longitude":"80.95W"}
+{"date":"2010-07-01","average_temperature":"28.198","city":"Coatzacoalcos","latitude":"18.48N","longitude":"94.65W"}
+{"date":"2012-08-01","average_temperature":"13.761","city":"Cochabamba","latitude":"16.87S","longitude":"66.98W"}
+{"date":"2010-06-01","average_temperature":"16.13","city":"Colchester","latitude":"52.24N","longitude":"0.00W"}
+{"date":"2011-04-01","average_temperature":"27.031","city":"Colombo","latitude":"7.23N","longitude":"80.27E"}
+{"date":"2010-07-01","average_temperature":"28.598000000000006","city":"Columbus","latitude":"32.95N","longitude":"85.21W"}
+{"date":"2012-02-01","average_temperature":"16.14","city":"Corpus Christi","latitude":"28.13N","longitude":"97.27W"}
+{"date":"2013-05-01","average_temperature":"17.635","city":"Costa Mesa","latitude":"32.95N","longitude":"117.77W"}
+{"date":"2011-01-01","average_temperature":"-1.988","city":"Craiova","latitude":"44.20N","longitude":"24.60E"}
+{"date":"2011-02-01","average_temperature":"7.606","city":"Crawley","latitude":"50.63N","longitude":"1.27W"}
+{"date":"2010-06-01","average_temperature":"19.589","city":"Cuautitlán Izcalli","latitude":"20.09N","longitude":"98.96W"}
+{"date":"2010-05-01","average_temperature":"23.055","city":"Cuenca","latitude":"2.41S","longitude":"79.55W"}
+{"date":"2012-08-01","average_temperature":"28.151","city":"Dadiangas","latitude":"5.63N","longitude":"125.92E"}
+{"date":"2013-03-01","average_temperature":"10.33","city":"Daito","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2012-03-01","average_temperature":"10.858","city":"Dali","latitude":"26.52N","longitude":"100.30E"}
+{"date":"2012-04-01","average_temperature":"23.309","city":"Daliang","latitude":"23.31N","longitude":"112.72E"}
+{"date":"2012-04-01","average_temperature":"27.185","city":"Daloa","latitude":"7.23N","longitude":"5.68W"}
+{"date":"2010-09-01","average_temperature":"24.518","city":"Dar Es Salaam","latitude":"7.23S","longitude":"39.73E"}
+{"date":"2011-02-01","average_temperature":"18.59","city":"Darbhanga","latitude":"26.52N","longitude":"85.97E"}
+{"date":"2012-08-01","average_temperature":"23.15","city":"Dawukou","latitude":"39.38N","longitude":"106.13E"}
+{"date":"2012-09-01","average_temperature":"15.818","city":"Dawukou","latitude":"39.38N","longitude":"106.13E"}
+{"date":"2010-06-01","average_temperature":"23.959","city":"Daxian","latitude":"31.35N","longitude":"107.43E"}
+{"date":"2010-12-01","average_temperature":"13.874","city":"Dehra Dun","latitude":"29.74N","longitude":"77.54E"}
+{"date":"2011-03-01","average_temperature":"3.4789999999999996","city":"Derbent","latitude":"42.59N","longitude":"48.00E"}
+{"date":"2011-10-01","average_temperature":"13.227","city":"Des Moines","latitude":"40.99N","longitude":"93.73W"}
+{"date":"2012-03-01","average_temperature":"8.959999999999997","city":"Detroit","latitude":"42.59N","longitude":"82.91W"}
+{"date":"2012-08-01","average_temperature":"26.146","city":"Dezhou","latitude":"37.78N","longitude":"115.93E"}
+{"date":"2011-02-01","average_temperature":"18.867","city":"Dimapur","latitude":"26.52N","longitude":"93.13E"}
+{"date":"2011-11-01","average_temperature":"20.121","city":"Dimapur","latitude":"26.52N","longitude":"93.13E"}
+{"date":"2010-05-01","average_temperature":"29.986","city":"Djougou","latitude":"10.45N","longitude":"2.45E"}
+{"date":"2012-07-01","average_temperature":"29.007","city":"Donghai","latitude":"23.31N","longitude":"116.21E"}
+{"date":"2012-10-01","average_temperature":"12.317","city":"Drobeta Turnu Severin","latitude":"44.20N","longitude":"22.36E"}
+{"date":"2012-11-01","average_temperature":"23.487","city":"Dum Dum","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2013-06-01","average_temperature":"26.127","city":"Duma","latitude":"32.95N","longitude":"37.34E"}
+{"date":"2011-07-01","average_temperature":"13.604000000000001","city":"East London","latitude":"32.95S","longitude":"27.77E"}
+{"date":"2012-04-01","average_temperature":"6.023","city":"Edinburgh","latitude":"55.45N","longitude":"2.83W"}
+{"date":"2010-01-01","average_temperature":"-1.16","city":"Eindhoven","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2013-06-01","average_temperature":"17.846999999999994","city":"Ekibastuz","latitude":"52.24N","longitude":"76.20E"}
+{"date":"2010-02-01","average_temperature":"23.54","city":"El Progreso","latitude":"15.27N","longitude":"87.50W"}
+{"date":"2011-03-01","average_temperature":"24.822","city":"El Progreso","latitude":"15.27N","longitude":"87.50W"}
+{"date":"2010-02-01","average_temperature":"9.719","city":"Elbasan","latitude":"40.99N","longitude":"19.17E"}
+{"date":"2010-07-01","average_temperature":"28.811","city":"Elista","latitude":"45.81N","longitude":"45.00E"}
+{"date":"2011-08-01","average_temperature":"26.022","city":"Enugu","latitude":"7.23N","longitude":"7.30E"}
+{"date":"2013-06-01","average_temperature":"19.473","city":"Erzincan","latitude":"39.38N","longitude":"39.54E"}
+{"date":"2010-03-01","average_temperature":"1.5260000000000002","city":"Erzurum","latitude":"39.38N","longitude":"41.62E"}
+{"date":"2010-05-01","average_temperature":"11.638","city":"Erzurum","latitude":"39.38N","longitude":"41.62E"}
+{"date":"2011-06-01","average_temperature":"16.462","city":"Erzurum","latitude":"39.38N","longitude":"41.62E"}
+{"date":"2010-10-01","average_temperature":"12.359000000000002","city":"Eskisehir","latitude":"39.38N","longitude":"31.21E"}
+{"date":"2011-03-01","average_temperature":"26.319000000000003","city":"Faridpur","latitude":"23.31N","longitude":"90.00E"}
+{"date":"2011-10-01","average_temperature":"26.428","city":"Farrukhabad","latitude":"28.13N","longitude":"79.09E"}
+{"date":"2013-08-01","average_temperature":"29.264","city":"Firozabad","latitude":"26.52N","longitude":"78.81E"}
+{"date":"2013-01-01","average_temperature":"27.131","city":"Formosa","latitude":"26.52S","longitude":"57.31W"}
+{"date":"2012-08-01","average_temperature":"19.069000000000006","city":"Franco Da Rocha","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2012-04-01","average_temperature":"8.200000000000001","city":"Frankfurt","latitude":"50.63N","longitude":"8.87E"}
+{"date":"2010-05-01","average_temperature":"9.978","city":"Freiburg","latitude":"47.42N","longitude":"8.29E"}
+{"date":"2012-06-01","average_temperature":"19.359","city":"Fujisawa","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2012-08-01","average_temperature":"28.11","city":"Fuling","latitude":"29.74N","longitude":"107.08E"}
+{"date":"2010-10-01","average_temperature":"15.880999999999998","city":"Funabashi","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2013-07-01","average_temperature":"24.933000000000003","city":"Fushun","latitude":"40.99N","longitude":"123.55E"}
+{"date":"2012-05-01","average_temperature":"22.999000000000002","city":"Fuyang","latitude":"32.95N","longitude":"115.85E"}
+{"date":"2013-07-01","average_temperature":"19.929","city":"Garden Grove","latitude":"32.95N","longitude":"117.77W"}
+{"date":"2010-01-01","average_temperature":"17.354000000000006","city":"Gazipur","latitude":"23.31N","longitude":"90.00E"}
+{"date":"2010-09-01","average_temperature":"24.761999999999997","city":"Gemena","latitude":"4.02N","longitude":"20.09E"}
+{"date":"2012-01-01","average_temperature":"24.153000000000002","city":"Gemena","latitude":"4.02N","longitude":"20.09E"}
+{"date":"2013-04-01","average_temperature":"8.943","city":"Gent","latitude":"50.63N","longitude":"3.80E"}
+{"date":"2012-12-01","average_temperature":"18.401","city":"George","latitude":"34.56S","longitude":"23.35E"}
+{"date":"2012-02-01","average_temperature":"-3.823","city":"Gera","latitude":"50.63N","longitude":"11.41E"}
+{"date":"2013-01-01","average_temperature":"4.691","city":"Getafe","latitude":"40.99N","longitude":"4.26W"}
+{"date":"2011-03-01","average_temperature":"23.864","city":"Ghaziabad","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2010-03-01","average_temperature":"27.839000000000002","city":"Ghazipur","latitude":"24.92N","longitude":"83.35E"}
+{"date":"2011-02-01","average_temperature":"19.967","city":"Girardot","latitude":"4.02N","longitude":"74.73W"}
+{"date":"2012-05-01","average_temperature":"20.983","city":"Girardot","latitude":"4.02N","longitude":"74.73W"}
+{"date":"2010-11-01","average_temperature":"14.813","city":"Glendale","latitude":"32.95N","longitude":"112.02W"}
+{"date":"2013-01-01","average_temperature":"24.509","city":"Gold Coast","latitude":"28.13S","longitude":"153.64E"}
+{"date":"2012-09-01","average_temperature":"14.293","city":"Gomel","latitude":"52.24N","longitude":"31.53E"}
+{"date":"2012-01-01","average_temperature":"15.019","city":"Gonda","latitude":"26.52N","longitude":"82.39E"}
+{"date":"2013-08-01","average_temperature":"30.255","city":"Grand Prairie","latitude":"32.95N","longitude":"96.70W"}
+{"date":"2012-05-01","average_temperature":"24.256","city":"Guadalajara","latitude":"20.09N","longitude":"104.08W"}
+{"date":"2010-05-01","average_temperature":"24.741999999999997","city":"Guanare","latitude":"8.84N","longitude":"70.54W"}
+{"date":"2011-04-01","average_temperature":"23.969","city":"Guanare","latitude":"8.84N","longitude":"70.54W"}
+{"date":"2012-03-01","average_temperature":"22.706999999999997","city":"Guarulhos","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2012-12-01","average_temperature":"24.51","city":"Guarulhos","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2010-04-01","average_temperature":"23.430999999999997","city":"Guayaquil","latitude":"2.41S","longitude":"79.55W"}
+{"date":"2012-10-01","average_temperature":"13.233","city":"Gyumri","latitude":"40.99N","longitude":"44.73E"}
+{"date":"2011-11-01","average_temperature":"6.99","city":"Haarlemmermeer","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2011-07-01","average_temperature":"28.454","city":"Hadejia","latitude":"12.05N","longitude":"9.86E"}
+{"date":"2010-01-01","average_temperature":"-2.3070000000000004","city":"Hagen","latitude":"52.24N","longitude":"7.88E"}
+{"date":"2011-06-01","average_temperature":"24.271","city":"Haifa","latitude":"32.95N","longitude":"35.43E"}
+{"date":"2013-06-01","average_temperature":"16.727999999999998","city":"Hailar","latitude":"49.03N","longitude":"120.00E"}
+{"date":"2011-12-01","average_temperature":"-19.118","city":"Hailun","latitude":"47.42N","longitude":"126.71E"}
+{"date":"2012-08-01","average_temperature":"18.175","city":"Hamburg","latitude":"53.84N","longitude":"9.55E"}
+{"date":"2013-02-01","average_temperature":"7.297000000000001","city":"Hampton","latitude":"36.17N","longitude":"75.58W"}
+{"date":"2012-10-01","average_temperature":"25.630000000000006","city":"Hanumangarh","latitude":"29.74N","longitude":"73.85E"}
+{"date":"2013-01-01","average_temperature":"12.664000000000001","city":"Hanumangarh","latitude":"29.74N","longitude":"73.85E"}
+{"date":"2013-08-01","average_temperature":"31.749","city":"Hanumangarh","latitude":"29.74N","longitude":"73.85E"}
+{"date":"2010-11-01","average_temperature":"24.228","city":"Harare","latitude":"18.48S","longitude":"30.42E"}
+{"date":"2012-07-01","average_temperature":"15.406","city":"Harare","latitude":"18.48S","longitude":"30.42E"}
+{"date":"2011-11-01","average_temperature":"20.318","city":"Haridwar","latitude":"29.74N","longitude":"77.54E"}
+{"date":"2010-04-01","average_temperature":"29.563","city":"Hat Yai","latitude":"7.23N","longitude":"99.73E"}
+{"date":"2011-06-01","average_temperature":"32.96700000000001","city":"Hathras","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2010-01-01","average_temperature":"26.294","city":"Henzada","latitude":"16.87N","longitude":"95.44E"}
+{"date":"2012-11-01","average_temperature":"8.935","city":"Herat","latitude":"34.56N","longitude":"62.27E"}
+{"date":"2010-02-01","average_temperature":"13.986999999999998","city":"Hermosillo","latitude":"29.74N","longitude":"110.77W"}
+{"date":"2011-01-01","average_temperature":"0.8170000000000001","city":"Hino","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2012-08-01","average_temperature":"27.701","city":"Hirakata","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2011-05-01","average_temperature":"34.209","city":"Hisar","latitude":"29.74N","longitude":"75.69E"}
+{"date":"2013-09-01","average_temperature":"27.651999999999997","city":"Hollywood","latitude":"26.52N","longitude":"80.60W"}
+{"date":"2012-07-01","average_temperature":"28.609","city":"Hsinchu","latitude":"24.92N","longitude":"120.59E"}
+{"date":"2010-04-01","average_temperature":"3.3989999999999996","city":"Huadian","latitude":"42.59N","longitude":"126.55E"}
+{"date":"2010-08-01","average_temperature":"28.822000000000006","city":"Huainan","latitude":"32.95N","longitude":"117.77E"}
+{"date":"2011-12-01","average_temperature":"-2.289","city":"Huangcun","latitude":"39.38N","longitude":"116.53E"}
+{"date":"2012-10-01","average_temperature":"14.025","city":"Huangcun","latitude":"39.38N","longitude":"116.53E"}
+{"date":"2013-09-01","city":"Huelva","latitude":"37.78N","longitude":"6.10W"}
+{"date":"2012-11-01","average_temperature":"17.245","city":"Huntington Beach","latitude":"32.95N","longitude":"117.77W"}
+{"date":"2011-11-01","average_temperature":"24.861","city":"Hyderabad","latitude":"16.87N","longitude":"78.70E"}
+{"date":"2010-08-01","average_temperature":"30.559","city":"Hyderabad","latitude":"24.92N","longitude":"69.16E"}
+{"date":"2012-03-01","average_temperature":"12.627","city":"Ica","latitude":"13.66S","longitude":"75.14W"}
+{"date":"2013-01-01","average_temperature":"11.838","city":"Ica","latitude":"13.66S","longitude":"75.14W"}
+{"date":"2010-07-01","average_temperature":"25.426","city":"Ikirun","latitude":"7.23N","longitude":"4.05E"}
+{"date":"2012-01-01","average_temperature":"8.461","city":"Ilam","latitude":"32.95N","longitude":"46.91E"}
+{"date":"2011-09-01","average_temperature":"25.77","city":"Ilobu","latitude":"7.23N","longitude":"4.05E"}
+{"date":"2010-04-01","average_temperature":"27.453000000000003","city":"Imperatriz","latitude":"5.63S","longitude":"46.82W"}
+{"date":"2011-05-01","average_temperature":"27.174000000000003","city":"Imperatriz","latitude":"5.63S","longitude":"46.82W"}
+{"date":"2011-12-01","average_temperature":"19.32","city":"Indore","latitude":"23.31N","longitude":"76.02E"}
+{"date":"2012-02-01","average_temperature":"-7.55","city":"Innsbruck","latitude":"47.42N","longitude":"10.66E"}
+{"date":"2013-07-01","average_temperature":"34.559","city":"Iranshahr","latitude":"26.52N","longitude":"60.90E"}
+{"date":"2011-08-01","average_temperature":"21.311","city":"Iringa","latitude":"7.23S","longitude":"36.49E"}
+{"date":"2011-02-01","average_temperature":"12.341","city":"Iskenderun","latitude":"36.17N","longitude":"35.80E"}
+{"date":"2011-12-01","average_temperature":"6.476","city":"Itami","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2010-04-01","average_temperature":"20.855","city":"Itapevi","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2013-09-01","city":"Iwatsuki","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2011-12-01","average_temperature":"3.767","city":"Jalalabad","latitude":"34.56N","longitude":"70.05E"}
+{"date":"2013-01-01","average_temperature":"16.554000000000002","city":"Jamalpur","latitude":"24.92N","longitude":"90.44E"}
+{"date":"2013-07-01","average_temperature":"29.185","city":"Jamalpur","latitude":"24.92N","longitude":"90.44E"}
+{"date":"2012-04-01","average_temperature":"30.581","city":"Jamuria","latitude":"23.31N","longitude":"86.50E"}
+{"date":"2013-05-01","average_temperature":"25.516","city":"Jerusalem","latitude":"31.35N","longitude":"35.81E"}
+{"date":"2012-02-01","average_temperature":"14.040999999999999","city":"Jieshi","latitude":"23.31N","longitude":"116.21E"}
+{"date":"2013-02-01","average_temperature":"-16.545","city":"Jilin","latitude":"44.20N","longitude":"127.45E"}
+{"date":"2013-06-01","average_temperature":"27.125","city":"Jimeta","latitude":"8.84N","longitude":"12.16E"}
+{"date":"2013-02-01","average_temperature":"3.3989999999999996","city":"Jining","latitude":"34.56N","longitude":"116.76E"}
+{"date":"2013-02-01","average_temperature":"-9.869","city":"Jining","latitude":"40.99N","longitude":"112.90E"}
+{"date":"2011-07-01","average_temperature":"24.417","city":"João Pessoa","latitude":"7.23S","longitude":"34.86W"}
+{"date":"2010-12-01","average_temperature":"26.735","city":"Jombang","latitude":"7.23S","longitude":"112.70E"}
+{"date":"2010-05-01","average_temperature":"21.023000000000003","city":"Juarez","latitude":"31.35N","longitude":"105.55W"}
+{"date":"2012-06-01","average_temperature":"25.949","city":"Juba","latitude":"4.02N","longitude":"31.34E"}
+{"date":"2010-12-01","average_temperature":"24.873","city":"Kaduna","latitude":"10.45N","longitude":"7.36E"}
+{"date":"2010-04-01","average_temperature":"31.899","city":"Kaithal","latitude":"29.74N","longitude":"75.69E"}
+{"date":"2012-12-01","average_temperature":"5.0089999999999995","city":"Kakogawa","latitude":"34.56N","longitude":"134.27E"}
+{"date":"2013-02-01","average_temperature":"23.671000000000006","city":"Kalemie","latitude":"5.63S","longitude":"29.06E"}
+{"date":"2010-10-01","average_temperature":"7.7120000000000015","city":"Kaliningrad","latitude":"55.45N","longitude":"19.84E"}
+{"date":"2012-05-01","average_temperature":"15.849","city":"Kaluga","latitude":"53.84N","longitude":"36.82E"}
+{"date":"2012-10-01","average_temperature":"6.734","city":"Kaluga","latitude":"53.84N","longitude":"36.82E"}
+{"date":"2013-06-01","average_temperature":"19.187","city":"Kaluga","latitude":"53.84N","longitude":"36.82E"}
+{"date":"2013-05-01","average_temperature":"31.254","city":"Kano","latitude":"12.05N","longitude":"8.22E"}
+{"date":"2011-02-01","average_temperature":"17.432000000000002","city":"Kaohsiung","latitude":"23.31N","longitude":"119.71E"}
+{"date":"2010-12-01","average_temperature":"19.07","city":"Karachi","latitude":"24.92N","longitude":"67.39E"}
+{"date":"2013-04-01","average_temperature":"12.915999999999999","city":"Karaj","latitude":"36.17N","longitude":"51.71E"}
+{"date":"2011-07-01","average_temperature":"23.865","city":"Karaman","latitude":"37.78N","longitude":"32.54E"}
+{"date":"2012-02-01","average_temperature":"27.287","city":"Karawang","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2012-09-01","average_temperature":"28.519","city":"Karimnagar","latitude":"18.48N","longitude":"79.44E"}
+{"date":"2011-03-01","average_temperature":"9.043","city":"Kashan","latitude":"34.56N","longitude":"50.59E"}
+{"date":"2011-04-01","average_temperature":"13.577000000000002","city":"Kasuga","latitude":"32.95N","longitude":"131.17E"}
+{"date":"2010-01-01","average_temperature":"-6.533","city":"Katowice","latitude":"50.63N","longitude":"19.01E"}
+{"date":"2010-08-01","average_temperature":"19.062","city":"Katowice","latitude":"50.63N","longitude":"19.01E"}
+{"date":"2011-06-01","average_temperature":"18.805","city":"Katumba","latitude":"8.84S","longitude":"33.24E"}
+{"date":"2013-09-01","city":"Katumba","latitude":"8.84S","longitude":"33.24E"}
+{"date":"2011-08-01","average_temperature":"25.201999999999998","city":"Kawaguchi","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2011-08-01","average_temperature":"27.376","city":"Kawanishi","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2010-07-01","average_temperature":"25.558000000000003","city":"Kawasaki","latitude":"36.17N","longitude":"139.23E"}
+{"date":"2010-02-01","average_temperature":"3.6060000000000003","city":"Kayseri","latitude":"39.38N","longitude":"35.38E"}
+{"date":"2010-01-01","average_temperature":"26.285","city":"Kebumen","latitude":"7.23S","longitude":"109.46E"}
+{"date":"2011-03-01","average_temperature":"26.287000000000006","city":"Kedungwuni","latitude":"7.23S","longitude":"109.46E"}
+{"date":"2011-04-01","average_temperature":"27.225","city":"Kendari","latitude":"4.02S","longitude":"122.95E"}
+{"date":"2011-09-01","average_temperature":"22.976","city":"Kerman","latitude":"29.74N","longitude":"57.23E"}
+{"date":"2012-02-01","average_temperature":"4.996","city":"Kerman","latitude":"29.74N","longitude":"57.23E"}
+{"date":"2013-01-01","average_temperature":"5.941","city":"Kerman","latitude":"29.74N","longitude":"57.23E"}
+{"date":"2011-07-01","average_temperature":"35.652","city":"Khairpur","latitude":"28.13N","longitude":"68.18E"}
+{"date":"2013-06-01","average_temperature":"33.226","city":"Khanna","latitude":"31.35N","longitude":"75.39E"}
+{"date":"2011-03-01","average_temperature":"24.933000000000003","city":"Khanpur","latitude":"28.13N","longitude":"70.00E"}
+{"date":"2011-03-01","average_temperature":"27.394","city":"Khardaha","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2010-08-01","average_temperature":"25.753","city":"Kherson","latitude":"47.42N","longitude":"31.97E"}
+{"date":"2012-02-01","average_temperature":"-8.606","city":"Kherson","latitude":"47.42N","longitude":"31.97E"}
+{"date":"2012-06-01","average_temperature":"27.992","city":"Killeen","latitude":"31.35N","longitude":"98.01W"}
+{"date":"2010-05-01","average_temperature":"25.14","city":"Kindu","latitude":"2.41S","longitude":"26.52E"}
+{"date":"2011-05-01","average_temperature":"24.934","city":"Kinshasa","latitude":"4.02S","longitude":"15.27E"}
+{"date":"2012-10-01","average_temperature":"22.344","city":"Kirkuk","latitude":"36.17N","longitude":"43.76E"}
+{"date":"2010-11-01","average_temperature":"-2.146","city":"Kirov","latitude":"58.66N","longitude":"49.23E"}
+{"date":"2011-05-01","average_temperature":"18.622","city":"Kisarazu","latitude":"34.56N","longitude":"140.11E"}
+{"date":"2010-07-01","average_temperature":"22.564","city":"Kislovodsk","latitude":"44.20N","longitude":"42.48E"}
+{"date":"2011-02-01","average_temperature":"25.846","city":"Klaten","latitude":"7.23S","longitude":"111.08E"}
+{"date":"2010-05-01","average_temperature":"31.786","city":"Kohat","latitude":"32.95N","longitude":"71.81E"}
+{"date":"2012-01-01","average_temperature":"26.395","city":"Kollam","latitude":"8.84N","longitude":"77.03E"}
+{"date":"2012-06-01","average_temperature":"26.759","city":"Kollam","latitude":"8.84N","longitude":"77.03E"}
+{"date":"2013-04-01","average_temperature":"13.069","city":"Komaki","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2011-03-01","average_temperature":"3.247","city":"Komatsu","latitude":"36.17N","longitude":"137.24E"}
+{"date":"2012-01-01","average_temperature":"-0.5880000000000001","city":"Konan","latitude":"36.17N","longitude":"137.24E"}
+{"date":"2010-02-01","average_temperature":"15.995","city":"Kot Addu","latitude":"29.74N","longitude":"70.15E"}
+{"date":"2010-03-01","average_temperature":"19.372","city":"Krugersdorp","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2010-06-01","average_temperature":"9.0","city":"Krugersdorp","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2012-05-01","average_temperature":"13.32","city":"Krugersdorp","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2010-08-01","average_temperature":"27.555999999999997","city":"Kuala Lumpur","latitude":"2.41N","longitude":"102.05E"}
+{"date":"2011-12-01","average_temperature":"26.616","city":"Kuala Lumpur","latitude":"2.41N","longitude":"102.05E"}
+{"date":"2011-01-01","average_temperature":"25.574","city":"Kuching","latitude":"0.80N","longitude":"110.09E"}
+{"date":"2011-10-01","average_temperature":"23.065","city":"Kuhdasht","latitude":"32.95N","longitude":"46.91E"}
+{"date":"2010-06-01","average_temperature":"18.861","city":"Kumanovo","latitude":"42.59N","longitude":"21.82E"}
+{"date":"2011-08-01","average_temperature":"25.605999999999998","city":"Kumasi","latitude":"7.23N","longitude":"0.81W"}
+{"date":"2010-09-01","average_temperature":"29.666999999999998","city":"Kusti","latitude":"13.66N","longitude":"32.20E"}
+{"date":"2011-07-01","average_temperature":"15.315","city":"Kwekwe","latitude":"18.48S","longitude":"30.42E"}
+{"date":"2011-12-01","average_temperature":"18.836","city":"Las Palmas","latitude":"28.13N","longitude":"15.45W"}
+{"date":"2011-04-01","average_temperature":"25.899","city":"Lashio","latitude":"23.31N","longitude":"96.99E"}
+{"date":"2011-09-01","average_temperature":"16.343","city":"Lausanne","latitude":"45.81N","longitude":"5.77E"}
+{"date":"2011-10-01","average_temperature":"10.077","city":"Lausanne","latitude":"45.81N","longitude":"5.77E"}
+{"date":"2012-10-01","average_temperature":"12.509","city":"Leganés","latitude":"40.99N","longitude":"4.26W"}
+{"date":"2012-06-01","average_temperature":"28.616","city":"Legaspi","latitude":"13.66N","longitude":"123.03E"}
+{"date":"2010-05-01","average_temperature":"10.363","city":"Leiden","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2010-12-01","average_temperature":"-5.002","city":"Leipzig","latitude":"50.63N","longitude":"11.41E"}
+{"date":"2011-07-01","average_temperature":"16.977999999999998","city":"Leninsk Kuznetskiy","latitude":"53.84N","longitude":"85.91E"}
+{"date":"2013-01-01","average_temperature":"4.722","city":"Leshan","latitude":"29.74N","longitude":"103.38E"}
+{"date":"2010-04-01","average_temperature":"15.841","city":"Lexington Fayette","latitude":"37.78N","longitude":"85.42W"}
+{"date":"2012-12-01","average_temperature":"-1.766","city":"Liaocheng","latitude":"36.17N","longitude":"115.36E"}
+{"date":"2011-02-01","average_temperature":"22.833000000000002","city":"Lichinga","latitude":"13.66S","longitude":"35.50E"}
+{"date":"2010-06-01","average_temperature":"15.152999999999999","city":"Lima","latitude":"12.05S","longitude":"77.26W"}
+{"date":"2010-11-01","average_temperature":"8.997","city":"Linqing","latitude":"36.17N","longitude":"115.36E"}
+{"date":"2013-06-01","average_temperature":"24.373","city":"Lira","latitude":"2.41N","longitude":"32.95E"}
+{"date":"2012-09-01","average_temperature":"13.075999999999999","city":"Liverpool","latitude":"53.84N","longitude":"4.09W"}
+{"date":"2011-08-01","average_temperature":"21.688000000000002","city":"Logroño","latitude":"42.59N","longitude":"2.18W"}
+{"date":"2010-07-01","average_temperature":"20.349","city":"Loja","latitude":"4.02S","longitude":"79.55W"}
+{"date":"2013-08-01","average_temperature":"19.417","city":"Loja","latitude":"4.02S","longitude":"79.55W"}
+{"date":"2010-11-01","average_temperature":"-4.195","city":"Longjing","latitude":"42.59N","longitude":"128.73E"}
+{"date":"2010-04-01","average_temperature":"32.809","city":"Loni","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2012-04-01","average_temperature":"25.213","city":"Los Mochis","latitude":"26.52N","longitude":"109.25W"}
+{"date":"2011-05-01","average_temperature":"14.102","city":"Lower Hutt","latitude":"40.99S","longitude":"174.67E"}
+{"date":"2012-01-01","average_temperature":"25.732","city":"Lucena","latitude":"13.66N","longitude":"121.38E"}
+{"date":"2010-10-01","average_temperature":"25.180999999999997","city":"Lumajang","latitude":"8.84S","longitude":"112.70E"}
+{"date":"2012-12-01","average_temperature":"28.808000000000003","city":"Luque","latitude":"24.92S","longitude":"56.75W"}
+{"date":"2010-07-01","average_temperature":"21.971","city":"Luziânia","latitude":"16.87S","longitude":"48.56W"}
+{"date":"2011-09-01","average_temperature":"23.428","city":"Málaga","latitude":"36.17N","longitude":"3.98W"}
+{"date":"2012-08-01","average_temperature":"25.629","city":"Málaga","latitude":"36.17N","longitude":"3.98W"}
+{"date":"2010-11-01","average_temperature":"12.267999999999999","city":"Maanshan","latitude":"31.35N","longitude":"118.74E"}
+{"date":"2013-06-01","average_temperature":"19.164","city":"Macaé","latitude":"21.70S","longitude":"42.40W"}
+{"date":"2012-12-01","average_temperature":"26.31","city":"Maceió","latitude":"10.45S","longitude":"35.18W"}
+{"date":"2013-01-01","average_temperature":"26.49","city":"Magelang","latitude":"7.23S","longitude":"109.46E"}
+{"date":"2012-03-01","average_temperature":"-7.4929999999999986","city":"Magnitogorsk","latitude":"53.84N","longitude":"58.64E"}
+{"date":"2013-06-01","average_temperature":"29.487","city":"Mahbubnagar","latitude":"16.87N","longitude":"78.70E"}
+{"date":"2011-03-01","average_temperature":"25.11","city":"Majalaya","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2011-11-01","average_temperature":"21.67","city":"Manama","latitude":"26.52N","longitude":"50.15E"}
+{"date":"2013-07-01","average_temperature":"36.898","city":"Manama","latitude":"26.52N","longitude":"50.15E"}
+{"date":"2010-10-01","average_temperature":"28.537","city":"Manaus","latitude":"2.41S","longitude":"60.27W"}
+{"date":"2012-06-01","average_temperature":"28.917","city":"Manbij","latitude":"36.17N","longitude":"37.79E"}
+{"date":"2011-04-01","average_temperature":"28.294","city":"Mangaluru","latitude":"13.66N","longitude":"75.14E"}
+{"date":"2011-09-01","average_temperature":"23.416999999999998","city":"Manta","latitude":"0.80S","longitude":"81.16W"}
+{"date":"2013-05-01","average_temperature":"21.503","city":"Marília","latitude":"21.70S","longitude":"49.33W"}
+{"date":"2013-09-01","city":"Maracaibo","latitude":"10.45N","longitude":"71.18W"}
+{"date":"2011-02-01","average_temperature":"28.315","city":"Maradi","latitude":"13.66N","longitude":"7.43E"}
+{"date":"2011-06-01","average_temperature":"31.293000000000003","city":"Maradi","latitude":"13.66N","longitude":"7.43E"}
+{"date":"2012-05-01","average_temperature":"24.055999999999997","city":"Mardan","latitude":"34.56N","longitude":"72.00E"}
+{"date":"2012-12-01","average_temperature":"11.87","city":"Marseille","latitude":"42.59N","longitude":"6.55E"}
+{"date":"2010-02-01","average_temperature":"14.264000000000001","city":"Matamoros","latitude":"26.52N","longitude":"96.72W"}
+{"date":"2010-08-01","average_temperature":"30.031","city":"Mathura","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2010-11-01","average_temperature":"10.488","city":"Maykop","latitude":"44.20N","longitude":"40.25E"}
+{"date":"2013-08-01","average_temperature":"29.029","city":"Maymyo","latitude":"21.70N","longitude":"96.06E"}
+{"date":"2013-09-01","city":"Mbouda","latitude":"5.63N","longitude":"9.69E"}
+{"date":"2010-01-01","average_temperature":"-5.3050000000000015","city":"Mentougou","latitude":"39.38N","longitude":"116.53E"}
+{"date":"2012-08-01","average_temperature":"25.574","city":"Mentougou","latitude":"39.38N","longitude":"116.53E"}
+{"date":"2012-10-01","average_temperature":"21.954","city":"Metepec","latitude":"18.48N","longitude":"99.72W"}
+{"date":"2011-04-01","average_temperature":"27.843000000000004","city":"Meycauayan","latitude":"15.27N","longitude":"120.83E"}
+{"date":"2011-11-01","average_temperature":"-10.39","city":"Mezhdurechensk","latitude":"53.84N","longitude":"88.64E"}
+{"date":"2013-02-01","average_temperature":"10.29","city":"Mianyang","latitude":"31.35N","longitude":"105.55E"}
+{"date":"2013-09-01","city":"Miass","latitude":"55.45N","longitude":"59.53E"}
+{"date":"2013-09-01","city":"Milagro","latitude":"2.41S","longitude":"79.55W"}
+{"date":"2010-08-01","average_temperature":"21.974","city":"Minneapolis","latitude":"45.81N","longitude":"93.46W"}
+{"date":"2013-08-01","average_temperature":"28.83","city":"Miramar","latitude":"26.52N","longitude":"80.60W"}
+{"date":"2012-09-01","average_temperature":"27.624000000000002","city":"Miri","latitude":"4.02N","longitude":"113.30E"}
+{"date":"2012-02-01","average_temperature":"10.234","city":"Miyakonojo","latitude":"31.35N","longitude":"131.94E"}
+{"date":"2010-01-01","average_temperature":"28.597","city":"Modakeke","latitude":"7.23N","longitude":"4.05E"}
+{"date":"2012-07-01","average_temperature":"26.561999999999998","city":"Mojokerto","latitude":"7.23S","longitude":"112.70E"}
+{"date":"2011-09-01","average_temperature":"28.726999999999997","city":"Monterrey","latitude":"26.52N","longitude":"100.30W"}
+{"date":"2011-11-01","average_temperature":"22.434","city":"Montes Claros","latitude":"16.87S","longitude":"43.53W"}
+{"date":"2010-09-01","average_temperature":"24.894","city":"Moriguchi","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2012-06-01","average_temperature":"21.401","city":"Moriguchi","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2012-09-01","average_temperature":"12.509","city":"Moscow","latitude":"55.45N","longitude":"36.85E"}
+{"date":"2013-08-01","average_temperature":"25.427","city":"Mubi","latitude":"10.45N","longitude":"13.91E"}
+{"date":"2010-11-01","average_temperature":"3.355","city":"Mulhouse","latitude":"47.42N","longitude":"8.29E"}
+{"date":"2010-05-01","average_temperature":"8.214","city":"Munich","latitude":"47.42N","longitude":"10.66E"}
+{"date":"2012-08-01","average_temperature":"10.038","city":"Murmansk","latitude":"68.31N","longitude":"34.70E"}
+{"date":"2012-12-01","average_temperature":"-13.725999999999999","city":"Murmansk","latitude":"68.31N","longitude":"34.70E"}
+{"date":"2013-07-01","average_temperature":"19.386","city":"Murom","latitude":"55.45N","longitude":"42.52E"}
+{"date":"2013-02-01","average_temperature":"25.005","city":"Mwene Ditu","latitude":"7.23S","longitude":"23.51E"}
+{"date":"2010-04-01","average_temperature":"30.506","city":"My Tho","latitude":"10.45N","longitude":"105.55E"}
+{"date":"2010-04-01","average_temperature":"32.128","city":"Myingyan","latitude":"21.70N","longitude":"96.06E"}
+{"date":"2012-05-01","average_temperature":"31.98","city":"Myingyan","latitude":"21.70N","longitude":"96.06E"}
+{"date":"2011-11-01","average_temperature":"-0.3440000000000001","city":"Mytishchi","latitude":"55.45N","longitude":"36.85E"}
+{"date":"2010-07-01","average_temperature":"23.465999999999998","city":"Nîmes","latitude":"44.20N","longitude":"4.47E"}
+{"date":"2011-12-01","average_temperature":"10.0","city":"Nador","latitude":"34.56N","longitude":"3.89W"}
+{"date":"2010-10-01","average_temperature":"27.087000000000003","city":"Najran","latitude":"16.87N","longitude":"43.53E"}
+{"date":"2012-09-01","average_temperature":"18.149","city":"Nakhodka","latitude":"42.59N","longitude":"133.09E"}
+{"date":"2011-07-01","average_temperature":"27.735","city":"Nalgonda","latitude":"16.87N","longitude":"78.70E"}
+{"date":"2012-01-01","average_temperature":"5.058","city":"Namur","latitude":"50.63N","longitude":"3.80E"}
+{"date":"2013-07-01","average_temperature":"20.864","city":"Nancha","latitude":"47.42N","longitude":"129.08E"}
+{"date":"2012-06-01","average_temperature":"33.122","city":"Nandyal","latitude":"15.27N","longitude":"79.17E"}
+{"date":"2011-08-01","average_temperature":"30.075","city":"Nangloi Jat","latitude":"28.13N","longitude":"77.27E"}
+{"date":"2012-02-01","average_temperature":"26.933000000000003","city":"Natal","latitude":"5.63S","longitude":"35.52W"}
+{"date":"2012-01-01","average_temperature":"-20.533","city":"Nefteyugansk","latitude":"61.88N","longitude":"73.02E"}
+{"date":"2012-08-01","average_temperature":"13.804","city":"Nefteyugansk","latitude":"61.88N","longitude":"73.02E"}
+{"date":"2010-04-01","average_temperature":"27.995","city":"Negombo","latitude":"7.23N","longitude":"80.27E"}
+{"date":"2011-05-01","average_temperature":"27.991","city":"Negombo","latitude":"7.23N","longitude":"80.27E"}
+{"date":"2010-04-01","average_temperature":"16.746","city":"Neijiang","latitude":"29.74N","longitude":"105.23E"}
+{"date":"2011-08-01","average_temperature":"28.85","city":"Neijiang","latitude":"29.74N","longitude":"105.23E"}
+{"date":"2012-02-01","average_temperature":"21.394000000000002","city":"Nelspruit","latitude":"24.92S","longitude":"30.15E"}
+{"date":"2012-05-01","average_temperature":"34.055","city":"Nguru","latitude":"13.66N","longitude":"10.73E"}
+{"date":"2013-04-01","average_temperature":"7.71","city":"Nijmegen","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2012-01-01","average_temperature":"5.148","city":"Ningbo","latitude":"29.74N","longitude":"121.85E"}
+{"date":"2012-09-01","average_temperature":"12.603","city":"Nizhniy Novgorod","latitude":"57.05N","longitude":"42.79E"}
+{"date":"2012-09-01","average_temperature":"10.635","city":"Nizhniy Tagil","latitude":"57.05N","longitude":"60.49E"}
+{"date":"2010-03-01","average_temperature":"-2.2440000000000007","city":"Noginsk","latitude":"55.45N","longitude":"39.69E"}
+{"date":"2011-04-01","average_temperature":"11.12","city":"Nottingham","latitude":"53.84N","longitude":"1.36W"}
+{"date":"2011-02-01","average_temperature":"-6.899000000000001","city":"Novocherkassk","latitude":"47.42N","longitude":"39.08E"}
+{"date":"2013-03-01","average_temperature":"1.7719999999999998","city":"Novocherkassk","latitude":"47.42N","longitude":"39.08E"}
+{"date":"2010-01-01","average_temperature":"6.706","city":"Novorossiysk","latitude":"44.20N","longitude":"38.01E"}
+{"date":"2012-09-01","average_temperature":"11.604000000000001","city":"Novosibirsk","latitude":"55.45N","longitude":"82.20E"}
+{"date":"2010-03-01","average_temperature":"17.025","city":"Nuevo Laredo","latitude":"28.13N","longitude":"99.09W"}
+{"date":"2010-02-01","average_temperature":"11.467","city":"Oakland","latitude":"37.78N","longitude":"122.03W"}
+{"date":"2013-05-01","average_temperature":"27.28","city":"Obosi","latitude":"5.63N","longitude":"6.46E"}
+{"date":"2013-03-01","average_temperature":"22.462","city":"Obregon","latitude":"28.13N","longitude":"110.00W"}
+{"date":"2012-04-01","average_temperature":"11.686","city":"Odesa","latitude":"45.81N","longitude":"31.15E"}
+{"date":"2010-10-01","average_temperature":"3.298","city":"Odintsovo","latitude":"55.45N","longitude":"36.85E"}
+{"date":"2010-03-01","average_temperature":"24.656999999999996","city":"Okara","latitude":"31.35N","longitude":"73.51E"}
+{"date":"2011-10-01","average_temperature":"26.483","city":"Okara","latitude":"31.35N","longitude":"73.51E"}
+{"date":"2010-06-01","average_temperature":"15.26","city":"Oldham","latitude":"53.84N","longitude":"1.36W"}
+{"date":"2012-07-01","average_temperature":"20.204","city":"Olomouc","latitude":"49.03N","longitude":"17.14E"}
+{"date":"2013-01-01","average_temperature":"3.227","city":"Omuta","latitude":"32.95N","longitude":"131.17E"}
+{"date":"2012-09-01","average_temperature":"26.14","city":"Opobo","latitude":"4.02N","longitude":"7.23E"}
+{"date":"2012-04-01","average_temperature":"22.976999999999997","city":"Orlando","latitude":"28.13N","longitude":"80.91W"}
+{"date":"2013-01-01","average_temperature":"19.27","city":"Orlando","latitude":"28.13N","longitude":"80.91W"}
+{"date":"2013-09-01","city":"Orsha","latitude":"53.84N","longitude":"31.36E"}
+{"date":"2012-05-01","average_temperature":"21.234","city":"Overland Park","latitude":"39.38N","longitude":"93.64W"}
+{"date":"2013-04-01","average_temperature":"10.03","city":"Oviedo","latitude":"42.59N","longitude":"6.55W"}
+{"date":"2010-04-01","average_temperature":"29.326999999999998","city":"Owo","latitude":"7.23N","longitude":"5.68E"}
+{"date":"2013-01-01","average_temperature":"8.812999999999999","city":"Oxnard","latitude":"34.56N","longitude":"118.70W"}
+{"date":"2010-01-01","average_temperature":"25.535","city":"Pétionville","latitude":"18.48N","longitude":"72.68W"}
+{"date":"2011-06-01","average_temperature":"28.14","city":"Pétionville","latitude":"18.48N","longitude":"72.68W"}
+{"date":"2013-03-01","average_temperature":"15.65","city":"Pachuca","latitude":"20.09N","longitude":"98.96W"}
+{"date":"2011-08-01","average_temperature":"25.154","city":"Padalarang","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2010-10-01","average_temperature":"18.855999999999998","city":"Palhoça","latitude":"28.13S","longitude":"48.18W"}
+{"date":"2010-09-01","average_temperature":"22.468000000000004","city":"Palmira","latitude":"4.02N","longitude":"76.34W"}
+{"date":"2010-01-01","average_temperature":"26.366","city":"Pamanukan","latitude":"5.63S","longitude":"108.16E"}
+{"date":"2010-03-01","average_temperature":"27.651","city":"Pamanukan","latitude":"5.63S","longitude":"108.16E"}
+{"date":"2010-03-01","average_temperature":"27.362","city":"Panvel","latitude":"18.48N","longitude":"72.68E"}
+{"date":"2012-08-01","average_temperature":"27.049","city":"Parung","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2010-04-01","average_temperature":"28.607","city":"Pasarkemis","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2013-07-01","average_temperature":"28.485","city":"Pate","latitude":"24.92N","longitude":"120.59E"}
+{"date":"2011-08-01","average_temperature":"26.726","city":"Pathein","latitude":"16.87N","longitude":"95.44E"}
+{"date":"2010-02-01","average_temperature":"-22.218000000000004","city":"Pavlodar","latitude":"52.24N","longitude":"76.20E"}
+{"date":"2010-09-01","average_temperature":"25.441","city":"Payakumbuh","latitude":"0.80S","longitude":"100.45E"}
+{"date":"2012-11-01","average_temperature":"23.124","city":"Pelotas","latitude":"31.35S","longitude":"52.77W"}
+{"date":"2012-01-01","average_temperature":"-9.789","city":"Penza","latitude":"53.84N","longitude":"45.00E"}
+{"date":"2011-12-01","average_temperature":"-15.494000000000002","city":"Petropavl","latitude":"55.45N","longitude":"68.03E"}
+{"date":"2011-01-01","average_temperature":"24.162","city":"Phalaborwa","latitude":"23.31S","longitude":"30.58E"}
+{"date":"2010-02-01","average_temperature":"12.695","city":"Phoenix","latitude":"32.95N","longitude":"112.02W"}
+{"date":"2011-06-01","average_temperature":"7.239","city":"Pietermaritzburg","latitude":"29.74S","longitude":"29.54E"}
+{"date":"2011-04-01","average_temperature":"26.646","city":"Pinar Del Río","latitude":"21.70N","longitude":"83.94W"}
+{"date":"2012-07-01","average_temperature":"29.965","city":"Pingxiang","latitude":"28.13N","longitude":"113.64E"}
+{"date":"2011-03-01","average_temperature":"5.577999999999999","city":"Pitesti","latitude":"44.20N","longitude":"24.60E"}
+{"date":"2013-03-01","average_temperature":"26.363000000000003","city":"Plây Cu","latitude":"13.66N","longitude":"108.17E"}
+{"date":"2013-04-01","average_temperature":"27.308000000000003","city":"Plây Cu","latitude":"13.66N","longitude":"108.17E"}
+{"date":"2010-08-01","average_temperature":"19.567999999999998","city":"Plock","latitude":"52.24N","longitude":"18.39E"}
+{"date":"2012-11-01","average_temperature":"26.206999999999997","city":"Plumbon","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2011-08-01","average_temperature":"18.687","city":"Poá","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2013-02-01","average_temperature":"18.937","city":"Port Elizabeth","latitude":"34.56S","longitude":"25.30E"}
+{"date":"2013-08-01","average_temperature":"25.947","city":"Port Harcourt","latitude":"4.02N","longitude":"7.23E"}
+{"date":"2012-02-01","average_temperature":"7.750999999999999","city":"Porto","latitude":"40.99N","longitude":"8.52W"}
+{"date":"2010-06-01","average_temperature":"9.744","city":"Potchefstroom","latitude":"26.52S","longitude":"26.87E"}
+{"date":"2011-06-01","average_temperature":"9.262","city":"Potchefstroom","latitude":"26.52S","longitude":"26.87E"}
+{"date":"2012-05-01","average_temperature":"15.62","city":"Prague","latitude":"50.63N","longitude":"13.94E"}
+{"date":"2010-04-01","average_temperature":"20.855","city":"Praia Grande","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2012-06-01","average_temperature":"33.122","city":"Proddatur","latitude":"15.27N","longitude":"79.17E"}
+{"date":"2013-02-01","average_temperature":"27.603","city":"Puerto Princesa","latitude":"10.45N","longitude":"118.64E"}
+{"date":"2012-02-01","average_temperature":"27.225","city":"Punto Fijo","latitude":"12.05N","longitude":"70.68W"}
+{"date":"2011-09-01","average_temperature":"23.784000000000002","city":"Puqi","latitude":"29.74N","longitude":"114.46E"}
+{"date":"2010-05-01","average_temperature":"26.193","city":"Purwakarta","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2012-12-01","average_temperature":"15.501","city":"Qena","latitude":"26.52N","longitude":"32.24E"}
+{"date":"2011-10-01","average_temperature":"22.627","city":"Queimados","latitude":"23.31S","longitude":"42.82W"}
+{"date":"2010-08-01","average_temperature":"22.605","city":"Quelimane","latitude":"18.48S","longitude":"37.18E"}
+{"date":"2011-05-01","average_temperature":"20.199","city":"Queluz","latitude":"39.38N","longitude":"8.32W"}
+{"date":"2010-10-01","average_temperature":"17.815","city":"Quito","latitude":"0.80S","longitude":"77.95W"}
+{"date":"2011-08-01","average_temperature":"28.936999999999998","city":"Rabak","latitude":"13.66N","longitude":"32.20E"}
+{"date":"2010-10-01","average_temperature":"26.308000000000003","city":"Rae Bareli","latitude":"26.52N","longitude":"80.60E"}
+{"date":"2010-01-01","average_temperature":"16.404999999999998","city":"Raiganj","latitude":"24.92N","longitude":"88.67E"}
+{"date":"2012-01-01","average_temperature":"18.815","city":"Rajpur","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2013-07-01","average_temperature":"25.673000000000002","city":"Raleigh","latitude":"36.17N","longitude":"79.56W"}
+{"date":"2012-06-01","average_temperature":"25.409000000000002","city":"Rancaekek","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2010-08-01","average_temperature":"27.452","city":"Ranchi","latitude":"23.31N","longitude":"84.76E"}
+{"date":"2011-03-01","average_temperature":"25.769","city":"Ranchi","latitude":"23.31N","longitude":"84.76E"}
+{"date":"2010-09-01","average_temperature":"15.677","city":"Ranghulu","latitude":"47.42N","longitude":"124.34E"}
+{"date":"2012-07-01","average_temperature":"24.06","city":"Ranghulu","latitude":"47.42N","longitude":"124.34E"}
+{"date":"2010-12-01","average_temperature":"26.601999999999997","city":"Rangkasbitung","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2010-02-01","average_temperature":"28.259","city":"Rantauprapat","latitude":"2.41N","longitude":"100.45E"}
+{"date":"2013-07-01","average_temperature":"26.959","city":"Ratlam","latitude":"23.31N","longitude":"74.27E"}
+{"date":"2012-09-01","average_temperature":"18.942999999999998","city":"Ravenna","latitude":"44.20N","longitude":"11.18E"}
+{"date":"2010-12-01","average_temperature":"-3.0969999999999995","city":"Recklinghausen","latitude":"52.24N","longitude":"7.88E"}
+{"date":"2011-10-01","average_temperature":"7.468999999999999","city":"Regina","latitude":"50.63N","longitude":"105.21W"}
+{"date":"2011-09-01","average_temperature":"27.209","city":"Rengasdengklok","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2011-01-01","average_temperature":"14.294","city":"Reynosa","latitude":"26.52N","longitude":"98.51W"}
+{"date":"2012-04-01","average_temperature":"22.989","city":"Ribeirão Prêto","latitude":"21.70S","longitude":"47.60W"}
+{"date":"2013-05-01","average_temperature":"20.125999999999998","city":"Ribeirão Prêto","latitude":"21.70S","longitude":"47.60W"}
+{"date":"2012-08-01","average_temperature":"18.159","city":"Richards Bay","latitude":"28.13S","longitude":"31.82E"}
+{"date":"2011-11-01","average_temperature":"21.815","city":"Rio Grande","latitude":"31.35S","longitude":"52.77W"}
+{"date":"2011-12-01","average_temperature":"21.683000000000003","city":"Riobamba","latitude":"2.41S","longitude":"77.95W"}
+{"date":"2012-12-01","average_temperature":"22.101999999999997","city":"Riobamba","latitude":"2.41S","longitude":"77.95W"}
+{"date":"2011-06-01","average_temperature":"23.559","city":"Riverside","latitude":"34.56N","longitude":"116.76W"}
+{"date":"2010-11-01","average_temperature":"20.169","city":"Riyadh","latitude":"24.92N","longitude":"46.11E"}
+{"date":"2011-04-01","average_temperature":"14.04","city":"Rongcheng","latitude":"26.52N","longitude":"103.88E"}
+{"date":"2010-12-01","average_temperature":"-4.824","city":"Rostock","latitude":"53.84N","longitude":"12.27E"}
+{"date":"2012-07-01","average_temperature":"18.192999999999998","city":"Rostock","latitude":"53.84N","longitude":"12.27E"}
+{"date":"2010-03-01","average_temperature":"2.371","city":"Rostov Na Donu","latitude":"47.42N","longitude":"39.08E"}
+{"date":"2012-06-01","average_temperature":"29.356","city":"Roxas","latitude":"12.05N","longitude":"123.29E"}
+{"date":"2012-03-01","average_temperature":"21.101999999999997","city":"Rustenburg","latitude":"26.52S","longitude":"26.87E"}
+{"date":"2013-02-01","average_temperature":"-0.379","city":"Rybnik","latitude":"50.63N","longitude":"19.01E"}
+{"date":"2012-12-01","average_temperature":"26.467","city":"São Carlos","latitude":"21.70S","longitude":"47.60W"}
+{"date":"2011-11-01","average_temperature":"22.294","city":"São Gonçalo","latitude":"23.31S","longitude":"42.82W"}
+{"date":"2010-03-01","average_temperature":"23.016","city":"São Leopoldo","latitude":"29.74S","longitude":"51.69W"}
+{"date":"2013-08-01","average_temperature":"18.732","city":"Saarbrücken","latitude":"49.03N","longitude":"7.35E"}
+{"date":"2012-12-01","average_temperature":"14.235","city":"Sabratah","latitude":"32.95N","longitude":"12.45E"}
+{"date":"2012-08-01","average_temperature":"28.663","city":"Safaqis","latitude":"34.56N","longitude":"11.68E"}
+{"date":"2013-03-01","average_temperature":"22.226","city":"Saharanpur","latitude":"29.74N","longitude":"77.54E"}
+{"date":"2011-05-01","average_temperature":"28.395","city":"Saharsa","latitude":"26.52N","longitude":"85.97E"}
+{"date":"2013-02-01","average_temperature":"18.104000000000006","city":"Saint Petersburg","latitude":"28.13N","longitude":"82.73W"}
+{"date":"2010-12-01","average_temperature":"9.543","city":"Sakura","latitude":"36.17N","longitude":"141.22E"}
+{"date":"2012-10-01","average_temperature":"19.998","city":"Salto","latitude":"31.35S","longitude":"58.43W"}
+{"date":"2010-10-01","average_temperature":"25.500999999999998","city":"Salvador","latitude":"13.66S","longitude":"38.81W"}
+{"date":"2013-07-01","average_temperature":"28.155","city":"Samut Prakan","latitude":"13.66N","longitude":"99.91E"}
+{"date":"2012-03-01","average_temperature":"17.557000000000002","city":"San Luis Río Colorado","latitude":"32.95N","longitude":"113.94W"}
+{"date":"2013-07-01","average_temperature":"34.288000000000004","city":"San Luis Río Colorado","latitude":"32.95N","longitude":"113.94W"}
+{"date":"2012-08-01","average_temperature":"27.714","city":"San Pablo","latitude":"13.66N","longitude":"121.38E"}
+{"date":"2011-04-01","average_temperature":"26.555999999999997","city":"San Pedro De Macorís","latitude":"18.48N","longitude":"69.30W"}
+{"date":"2012-10-01","average_temperature":"17.55","city":"Sanda","latitude":"34.56N","longitude":"134.27E"}
+{"date":"2013-06-01","average_temperature":"26.908","city":"Sanhsia","latitude":"24.92N","longitude":"120.59E"}
+{"date":"2012-11-01","average_temperature":"13.357000000000001","city":"Santander","latitude":"44.20N","longitude":"4.47W"}
+{"date":"2010-07-01","average_temperature":"28.467","city":"Santiago","latitude":"20.09N","longitude":"69.95W"}
+{"date":"2011-05-01","average_temperature":"26.855","city":"Santo Domingo","latitude":"18.48N","longitude":"69.30W"}
+{"date":"2013-07-01","average_temperature":"12.808","city":"Sapucaia","latitude":"29.74S","longitude":"51.69W"}
+{"date":"2010-01-01","average_temperature":"-16.465","city":"Saratov","latitude":"52.24N","longitude":"47.30E"}
+{"date":"2012-03-01","average_temperature":"31.711","city":"Sarh","latitude":"8.84N","longitude":"18.65E"}
+{"date":"2012-11-01","average_temperature":"15.351","city":"Sassari","latitude":"40.99N","longitude":"8.52E"}
+{"date":"2013-03-01","average_temperature":"27.451","city":"Satara","latitude":"16.87N","longitude":"73.67E"}
+{"date":"2010-01-01","average_temperature":"17.503","city":"Satkhira","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2011-01-01","average_temperature":"26.558000000000003","city":"Sawangan","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2013-06-01","average_temperature":"28.055999999999997","city":"Serekunda","latitude":"13.66N","longitude":"17.34W"}
+{"date":"2010-10-01","average_temperature":"26.195","city":"Shaki","latitude":"8.84N","longitude":"4.05E"}
+{"date":"2011-09-01","average_temperature":"23.781999999999996","city":"Shanghai","latitude":"31.35N","longitude":"120.63E"}
+{"date":"2010-03-01","average_temperature":"5.792999999999999","city":"Sheffield","latitude":"53.84N","longitude":"1.36W"}
+{"date":"2012-05-01","average_temperature":"14.675","city":"Sherbrooke","latitude":"45.81N","longitude":"72.69W"}
+{"date":"2013-05-01","average_temperature":"25.896","city":"Shilong","latitude":"23.31N","longitude":"114.47E"}
+{"date":"2011-02-01","average_temperature":"-3.1459999999999995","city":"Shizuishan","latitude":"39.38N","longitude":"106.13E"}
+{"date":"2010-02-01","average_temperature":"-0.8550000000000001","city":"Shunyi","latitude":"39.38N","longitude":"116.53E"}
+{"date":"2012-11-01","average_temperature":"28.401999999999997","city":"Si Racha","latitude":"13.66N","longitude":"101.56E"}
+{"date":"2010-06-01","average_temperature":"35.019","city":"Sikar","latitude":"28.13N","longitude":"75.45E"}
+{"date":"2012-10-01","average_temperature":"26.293000000000003","city":"Sikar","latitude":"28.13N","longitude":"75.45E"}
+{"date":"2011-11-01","average_temperature":"27.776999999999997","city":"Sincelejo","latitude":"8.84N","longitude":"75.41W"}
+{"date":"2012-04-01","average_temperature":"15.68","city":"Sirjan","latitude":"29.74N","longitude":"55.38E"}
+{"date":"2010-06-01","average_temperature":"34.624","city":"Sirsa","latitude":"29.74N","longitude":"75.69E"}
+{"date":"2013-08-01","average_temperature":"21.451","city":"Soacha","latitude":"4.02N","longitude":"74.73W"}
+{"date":"2012-09-01","average_temperature":"20.237","city":"Sogamoso","latitude":"5.63N","longitude":"72.65W"}
+{"date":"2010-02-01","average_temperature":"1.158","city":"Solingen","latitude":"50.63N","longitude":"6.34E"}
+{"date":"2010-03-01","average_temperature":"23.98","city":"Sorocaba","latitude":"23.31S","longitude":"48.06W"}
+{"date":"2013-07-01","average_temperature":"18.694000000000006","city":"Southend On Sea","latitude":"52.24N","longitude":"0.00W"}
+{"date":"2012-11-01","average_temperature":"13.072000000000001","city":"Spring Valley","latitude":"36.17N","longitude":"115.36W"}
+{"date":"2010-08-01","average_temperature":"26.048","city":"Springfield","latitude":"39.38N","longitude":"89.48W"}
+{"date":"2011-06-01","average_temperature":"12.574000000000002","city":"Stavanger","latitude":"58.66N","longitude":"6.15E"}
+{"date":"2011-01-01","average_temperature":"-6.212999999999999","city":"Sterling Heights","latitude":"42.59N","longitude":"82.91W"}
+{"date":"2012-11-01","average_temperature":"-2.0370000000000004","city":"Sterlitamak","latitude":"53.84N","longitude":"55.91E"}
+{"date":"2011-06-01","average_temperature":"26.753","city":"Sukaraja","latitude":"7.23S","longitude":"106.22E"}
+{"date":"2012-12-01","average_temperature":"23.828000000000003","city":"Sullana","latitude":"5.63S","longitude":"80.72W"}
+{"date":"2010-12-01","average_temperature":"-3.82","city":"Sumy","latitude":"50.63N","longitude":"34.23E"}
+{"date":"2011-11-01","average_temperature":"7.558","city":"Sunderland","latitude":"55.45N","longitude":"2.83W"}
+{"date":"2013-09-01","city":"Sungai Petani","latitude":"5.63N","longitude":"100.09E"}
+{"date":"2012-04-01","average_temperature":"27.726","city":"Surabaya","latitude":"7.23S","longitude":"112.70E"}
+{"date":"2010-09-01","average_temperature":"28.297","city":"Surendranagar","latitude":"23.31N","longitude":"72.52E"}
+{"date":"2013-02-01","average_temperature":"-16.975","city":"Surgut","latitude":"61.88N","longitude":"73.02E"}
+{"date":"2013-06-01","average_temperature":"31.118000000000002","city":"Suriapet","latitude":"16.87N","longitude":"80.37E"}
+{"date":"2010-10-01","average_temperature":"18.032","city":"Suzhou","latitude":"31.35N","longitude":"120.63E"}
+{"date":"2011-08-01","average_temperature":"21.945999999999998","city":"Székesfehérvár","latitude":"47.42N","longitude":"17.76E"}
+{"date":"2012-07-01","average_temperature":"25.439","city":"Taganrog","latitude":"47.42N","longitude":"39.08E"}
+{"date":"2013-09-01","city":"Taitung","latitude":"23.31N","longitude":"121.46E"}
+{"date":"2013-04-01","average_temperature":"9.94","city":"Taiyuan","latitude":"37.78N","longitude":"111.86E"}
+{"date":"2010-08-01","average_temperature":"6.4270000000000005","city":"Talca","latitude":"36.17S","longitude":"71.60W"}
+{"date":"2013-09-01","city":"Tamale","latitude":"8.84N","longitude":"0.81W"}
+{"date":"2010-06-01","average_temperature":"27.634","city":"Taman","latitude":"7.23S","longitude":"112.70E"}
+{"date":"2012-07-01","average_temperature":"16.846999999999998","city":"Tampere","latitude":"61.88N","longitude":"22.08E"}
+{"date":"2012-04-01","average_temperature":"27.166999999999998","city":"Tanete","latitude":"5.63S","longitude":"119.46E"}
+{"date":"2010-12-01","average_temperature":"26.601999999999997","city":"Tangerang","latitude":"5.63S","longitude":"106.55E"}
+{"date":"2010-12-01","average_temperature":"-0.2329999999999999","city":"Tangshan","latitude":"37.78N","longitude":"113.90E"}
+{"date":"2013-05-01","average_temperature":"18.955","city":"Taranto","latitude":"40.99N","longitude":"17.04E"}
+{"date":"2012-11-01","average_temperature":"27.191","city":"Tarlac","latitude":"15.27N","longitude":"120.83E"}
+{"date":"2012-12-01","average_temperature":"15.198","city":"Tartus","latitude":"34.56N","longitude":"35.03E"}
+{"date":"2012-11-01","average_temperature":"26.206999999999997","city":"Tasikmalaya","latitude":"7.23S","longitude":"107.84E"}
+{"date":"2012-03-01","average_temperature":"0.27399999999999997","city":"Tbilisi","latitude":"40.99N","longitude":"44.73E"}
+{"date":"2011-01-01","average_temperature":"25.246","city":"Teófilo Otoni","latitude":"18.48S","longitude":"42.25W"}
+{"date":"2012-03-01","average_temperature":"25.641","city":"Tegucigalpa","latitude":"13.66N","longitude":"86.70W"}
+{"date":"2011-10-01","average_temperature":"13.405999999999999","city":"Tekirdag","latitude":"40.99N","longitude":"27.69E"}
+{"date":"2011-04-01","average_temperature":"18.326","city":"Tel Aviv Yafo","latitude":"31.35N","longitude":"33.93E"}
+{"date":"2011-02-01","average_temperature":"16.664","city":"Temuco","latitude":"39.38S","longitude":"72.83W"}
+{"date":"2013-05-01","average_temperature":"34.889","city":"Tenali","latitude":"16.87N","longitude":"80.37E"}
+{"date":"2012-06-01","average_temperature":"19.552","city":"Teresópolis","latitude":"21.70S","longitude":"42.40W"}
+{"date":"2010-11-01","average_temperature":"28.955","city":"Teresina","latitude":"5.63S","longitude":"43.59W"}
+{"date":"2012-02-01","average_temperature":"8.477","city":"Terrassa","latitude":"40.99N","longitude":"2.13E"}
+{"date":"2012-06-01","average_temperature":"20.918000000000003","city":"Tete","latitude":"16.87S","longitude":"33.49E"}
+{"date":"2010-09-01","average_temperature":"22.42","city":"Thousand Oaks","latitude":"34.56N","longitude":"118.70W"}
+{"date":"2010-11-01","average_temperature":"26.924","city":"Thrissur","latitude":"10.45N","longitude":"76.09E"}
+{"date":"2011-07-01","average_temperature":"22.721","city":"Tighina","latitude":"47.42N","longitude":"29.61E"}
+{"date":"2011-09-01","average_temperature":"24.11","city":"Tirana","latitude":"40.99N","longitude":"19.17E"}
+{"date":"2012-06-01","average_temperature":"23.829","city":"Tirana","latitude":"40.99N","longitude":"19.17E"}
+{"date":"2011-08-01","average_temperature":"28.976","city":"Titagarh","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2012-01-01","average_temperature":"18.815","city":"Titagarh","latitude":"23.31N","longitude":"88.25E"}
+{"date":"2012-06-01","average_temperature":"19.797","city":"Toamasina","latitude":"18.48S","longitude":"49.01E"}
+{"date":"2010-01-01","average_temperature":"5.9529999999999985","city":"Tokat","latitude":"40.99N","longitude":"36.21E"}
+{"date":"2012-10-01","average_temperature":"16.665","city":"Tokat","latitude":"40.99N","longitude":"36.21E"}
+{"date":"2011-06-01","average_temperature":"23.695","city":"Toluca","latitude":"18.48N","longitude":"99.72W"}
+{"date":"2010-10-01","average_temperature":"3.489","city":"Tolyatti","latitude":"53.84N","longitude":"50.45E"}
+{"date":"2011-07-01","average_temperature":"23.52","city":"Tolyatti","latitude":"53.84N","longitude":"50.45E"}
+{"date":"2012-08-01","average_temperature":"21.868000000000002","city":"Tomakomai","latitude":"42.59N","longitude":"141.82E"}
+{"date":"2010-08-01","average_temperature":"23.023000000000003","city":"Tongliao","latitude":"44.20N","longitude":"122.98E"}
+{"date":"2011-11-01","average_temperature":"-2.336","city":"Tongliao","latitude":"44.20N","longitude":"122.98E"}
+{"date":"2011-12-01","average_temperature":"-12.298","city":"Tongliao","latitude":"44.20N","longitude":"122.98E"}
+{"date":"2012-01-01","average_temperature":"3.168","city":"Tongling","latitude":"31.35N","longitude":"118.74E"}
+{"date":"2013-02-01","average_temperature":"18.674","city":"Tonk","latitude":"26.52N","longitude":"75.22E"}
+{"date":"2010-10-01","average_temperature":"18.347","city":"Tottori","latitude":"34.56N","longitude":"134.27E"}
+{"date":"2011-08-01","average_temperature":"27.664","city":"Tottori","latitude":"34.56N","longitude":"134.27E"}
+{"date":"2010-12-01","average_temperature":"18.706","city":"Touliu","latitude":"23.31N","longitude":"119.71E"}
+{"date":"2013-06-01","average_temperature":"21.906999999999996","city":"Toyohashi","latitude":"34.56N","longitude":"138.16E"}
+{"date":"2011-08-01","average_temperature":"20.611","city":"Trabzon","latitude":"40.99N","longitude":"40.47E"}
+{"date":"2012-10-01","average_temperature":"23.698","city":"Tubruq","latitude":"31.35N","longitude":"24.50E"}
+{"date":"2011-11-01","average_temperature":"25.910999999999998","city":"Tucuman","latitude":"26.52S","longitude":"64.48W"}
+{"date":"2012-06-01","average_temperature":"13.817","city":"Tucuman","latitude":"26.52S","longitude":"64.48W"}
+{"date":"2012-06-01","average_temperature":"23.409000000000002","city":"Tuluá","latitude":"4.02N","longitude":"76.34W"}
+{"date":"2012-06-01","average_temperature":"28.121","city":"Tunis","latitude":"36.17N","longitude":"9.94E"}
+{"date":"2012-06-01","average_temperature":"26.715999999999998","city":"Tuxtla Gutiérrez","latitude":"16.87N","longitude":"93.77W"}
+{"date":"2011-01-01","average_temperature":"21.636","city":"Udon Thani","latitude":"16.87N","longitude":"102.14E"}
+{"date":"2013-09-01","city":"Udupi","latitude":"13.66N","longitude":"75.14E"}
+{"date":"2011-04-01","average_temperature":"28.708","city":"Ugep","latitude":"5.63N","longitude":"8.07E"}
+{"date":"2012-02-01","average_temperature":"4.3420000000000005","city":"Uji","latitude":"34.56N","longitude":"136.22E"}
+{"date":"2011-08-01","average_temperature":"26.136","city":"Ujjain","latitude":"23.31N","longitude":"76.02E"}
+{"date":"2012-04-01","average_temperature":"2.119","city":"Ukhta","latitude":"63.49N","longitude":"52.20E"}
+{"date":"2010-07-01","average_temperature":"31.504","city":"Umm Durman","latitude":"15.27N","longitude":"32.50E"}
+{"date":"2010-05-01","average_temperature":"18.679000000000002","city":"Várzea Paulista","latitude":"23.31S","longitude":"46.31W"}
+{"date":"2013-09-01","city":"Valencia","latitude":"39.38N","longitude":"0.00W"}
+{"date":"2010-02-01","average_temperature":"11.467","city":"Vallejo","latitude":"37.78N","longitude":"122.03W"}
+{"date":"2012-03-01","average_temperature":"11.503","city":"Vallejo","latitude":"37.78N","longitude":"122.03W"}
+{"date":"2011-07-01","average_temperature":"10.959000000000001","city":"Valparaiso","latitude":"32.95S","longitude":"71.81W"}
+{"date":"2010-06-01","average_temperature":"12.316","city":"Vancouver","latitude":"49.03N","longitude":"122.45W"}
+{"date":"2012-03-01","average_temperature":"5.839","city":"Varamin","latitude":"36.17N","longitude":"51.71E"}
+{"date":"2013-06-01","average_temperature":"32.044000000000004","city":"Varanasi","latitude":"24.92N","longitude":"83.35E"}
+{"date":"2010-07-01","average_temperature":"9.645","city":"Verwoerdburg","latitude":"26.52S","longitude":"28.66E"}
+{"date":"2013-06-01","average_temperature":"13.915","city":"Victoria","latitude":"49.03N","longitude":"122.45W"}
+{"date":"2011-02-01","average_temperature":"2.456","city":"Villeurbanne","latitude":"45.81N","longitude":"5.77E"}
+{"date":"2010-10-01","average_temperature":"5.568","city":"Vinnytsya","latitude":"49.03N","longitude":"29.39E"}
+{"date":"2010-12-01","average_temperature":"7.567","city":"Viransehir","latitude":"37.78N","longitude":"40.68E"}
+{"date":"2012-04-01","average_temperature":"16.018","city":"Viransehir","latitude":"37.78N","longitude":"40.68E"}
+{"date":"2012-10-01","average_temperature":"25.208","city":"Visakhapatnam","latitude":"18.48N","longitude":"82.82E"}
+{"date":"2010-12-01","average_temperature":"8.554","city":"Visalia","latitude":"36.17N","longitude":"119.34W"}
+{"date":"2011-02-01","average_temperature":"26.663","city":"Vitória","latitude":"20.09S","longitude":"40.95W"}
+{"date":"2012-05-01","average_temperature":"26.406","city":"Vitória De Santo Antão","latitude":"8.84S","longitude":"34.86W"}
+{"date":"2010-09-01","average_temperature":"26.753","city":"Vizianagaram","latitude":"18.48N","longitude":"82.82E"}
+{"date":"2011-07-01","average_temperature":"26.982","city":"Vizianagaram","latitude":"18.48N","longitude":"82.82E"}
+{"date":"2012-04-01","average_temperature":"9.902","city":"Vladikavkaz","latitude":"42.59N","longitude":"43.64E"}
+{"date":"2013-09-01","city":"Vryheid","latitude":"28.13S","longitude":"30.00E"}
+{"date":"2011-05-01","average_temperature":"27.467","city":"Wah","latitude":"34.56N","longitude":"72.00E"}
+{"date":"2011-06-01","average_temperature":"14.095","city":"Walsall","latitude":"52.24N","longitude":"2.63W"}
+{"date":"2012-06-01","average_temperature":"16.849999999999998","city":"Warsaw","latitude":"52.24N","longitude":"21.02E"}
+{"date":"2013-02-01","average_temperature":"0.3890000000000001","city":"Waterbury","latitude":"40.99N","longitude":"72.43W"}
+{"date":"2012-04-01","average_temperature":"7.496","city":"Watford","latitude":"52.24N","longitude":"0.00W"}
+{"date":"2013-04-01","average_temperature":"28.259","city":"Waw","latitude":"7.23N","longitude":"28.38E"}
+{"date":"2011-05-01","average_temperature":"19.226","city":"Weifang","latitude":"36.17N","longitude":"119.34E"}
+{"date":"2010-03-01","average_temperature":"16.208","city":"Wellington","latitude":"40.99S","longitude":"174.67E"}
+{"date":"2010-09-01","average_temperature":"21.779","city":"Wencheng","latitude":"37.78N","longitude":"122.03E"}
+{"date":"2010-08-01","average_temperature":"23.545","city":"West Covina","latitude":"34.56N","longitude":"118.70W"}
+{"date":"2011-08-01","average_temperature":"33.593","city":"Wichita Falls","latitude":"34.56N","longitude":"99.24W"}
+{"date":"2012-02-01","average_temperature":"-4.8610000000000015","city":"Wroclaw","latitude":"50.63N","longitude":"16.48E"}
+{"date":"2012-04-01","average_temperature":"8.186","city":"Wroclaw","latitude":"50.63N","longitude":"16.48E"}
+{"date":"2011-10-01","average_temperature":"9.637","city":"Wuda","latitude":"39.38N","longitude":"106.13E"}
+{"date":"2012-08-01","average_temperature":"29.023000000000003","city":"Wuhan","latitude":"29.74N","longitude":"114.46E"}
+{"date":"2012-06-01","average_temperature":"24.09","city":"Wuning","latitude":"29.74N","longitude":"120.00E"}
+{"date":"2011-08-01","average_temperature":"29.347","city":"Wuzhou","latitude":"23.31N","longitude":"110.97E"}
+{"date":"2013-01-01","average_temperature":"-1.6349999999999998","city":"Xian","latitude":"34.56N","longitude":"108.97E"}
+{"date":"2011-11-01","average_temperature":"7.542999999999999","city":"Xianyang","latitude":"34.56N","longitude":"108.97E"}
+{"date":"2011-11-01","average_temperature":"21.586","city":"Xiaolan","latitude":"23.31N","longitude":"112.72E"}
+{"date":"2012-09-01","average_temperature":"26.205","city":"Yüanlin","latitude":"24.92N","longitude":"120.59E"}
+{"date":"2012-06-01","average_temperature":"20.63","city":"Yanan","latitude":"36.17N","longitude":"109.39E"}
+{"date":"2012-06-01","average_temperature":"26.063000000000002","city":"Yangmei","latitude":"24.92N","longitude":"120.59E"}
+{"date":"2012-04-01","average_temperature":"28.943","city":"Yelahanka","latitude":"13.66N","longitude":"76.79E"}
+{"date":"2012-10-01","average_temperature":"24.848000000000003","city":"Yelahanka","latitude":"13.66N","longitude":"76.79E"}
+{"date":"2013-09-01","city":"Yevpatoriya","latitude":"45.81N","longitude":"33.46E"}
+{"date":"2011-03-01","average_temperature":"10.975","city":"Yingcheng","latitude":"31.35N","longitude":"113.09E"}
+{"date":"2013-06-01","average_temperature":"24.133000000000003","city":"Yuyao","latitude":"29.74N","longitude":"121.85E"}
+{"date":"2010-10-01","average_temperature":"10.279000000000002","city":"Zaanstad","latitude":"52.24N","longitude":"5.26E"}
+{"date":"2012-03-01","average_temperature":"5.266","city":"Zabrze","latitude":"50.63N","longitude":"19.01E"}
+{"date":"2012-04-01","average_temperature":"18.5","city":"Zacatecas","latitude":"23.31N","longitude":"102.23W"}
+{"date":"2011-08-01","average_temperature":"21.78","city":"Zagreb","latitude":"45.81N","longitude":"15.00E"}
+{"date":"2010-01-01","average_temperature":"-5.18","city":"Zaporizhzhya","latitude":"47.42N","longitude":"34.34E"}
+{"date":"2010-11-01","average_temperature":"9.794","city":"Zaragoza","latitude":"40.99N","longitude":"0.00W"}
+{"date":"2011-10-01","average_temperature":"23.549","city":"Zhanjiang","latitude":"21.70N","longitude":"109.90E"}
+{"date":"2010-11-01","average_temperature":"12.329","city":"Zhicheng","latitude":"29.74N","longitude":"110.77E"}
+{"date":"2012-04-01","average_temperature":"17.816000000000006","city":"Zhoucheng","latitude":"24.92N","longitude":"102.86E"}
+{"date":"2010-01-01","average_temperature":"5.5459999999999985","city":"Zhuji","latitude":"29.74N","longitude":"120.00E"}
+{"date":"2013-04-01","average_temperature":"19.256","city":"Zigong","latitude":"29.74N","longitude":"105.23E"}
+{"date":"2010-11-01","average_temperature":"27.722","city":"Ziguinchor","latitude":"12.05N","longitude":"16.44W"}
+{"date":"2011-07-01","average_temperature":"14.864","city":"Zurich","latitude":"47.42N","longitude":"8.29E"}
+{"date":"2012-10-01","average_temperature":"10.358","city":"Zwolle","latitude":"52.24N","longitude":"5.26E"}

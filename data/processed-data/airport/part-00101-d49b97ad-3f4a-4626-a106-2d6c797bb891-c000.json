@@ -1,0 +1,271 @@
+{"airport_code":"00KS","type":"small_airport","name":"Hayden Farm Airport","continent":"NA","country_code":"US","iso_region":"US-KS","region":"KS"}
+{"airport_code":"01IA","type":"small_airport","name":"Stender Airport","continent":"NA","country_code":"US","iso_region":"US-IA","region":"IA"}
+{"airport_code":"02LA","type":"heliport","name":"La State Police Troop G Heliport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"05TA","type":"small_airport","name":"Brandes Air Field","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"06TX","type":"small_airport","name":"Diamond N Ranch Airport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"08CT","type":"seaplane_base","name":"Seavair's Landing Seaplane Base","continent":"NA","country_code":"US","iso_region":"US-CT","region":"CT"}
+{"airport_code":"0CL7","type":"heliport","name":"Good Samaritan Hospital Heliport","continent":"NA","country_code":"US","iso_region":"US-CA","region":"CA"}
+{"airport_code":"0L6","type":"heliport","name":"Winn Parish Medical Center Heliport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"0ND7","type":"small_airport","name":"Saville Private Airport","continent":"NA","country_code":"US","iso_region":"US-ND","region":"ND"}
+{"airport_code":"10PA","type":"heliport","name":"Piac Heliport","continent":"NA","country_code":"US","iso_region":"US-PA","region":"PA"}
+{"airport_code":"15MT","type":"small_airport","name":"Saubak Airport","continent":"NA","country_code":"US","iso_region":"US-MT","region":"MT"}
+{"airport_code":"16LA","type":"heliport","name":"Arrow Aviation Company Heliport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"1AL9","type":"closed","name":"Lake Tuscaloosa Seaplane Base","continent":"NA","country_code":"US","iso_region":"US-AL","region":"AL"}
+{"airport_code":"1FL9","type":"heliport","name":"Hendry County Fire-Ems Heliport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"1OH7","type":"small_airport","name":"Derry Landing Strip","continent":"NA","country_code":"US","iso_region":"US-OH","region":"OH"}
+{"airport_code":"20NE","type":"heliport","name":"Bryan Memorial Hospital Heliport","continent":"NA","country_code":"US","iso_region":"US-NE","region":"NE"}
+{"airport_code":"24TA","type":"small_airport","name":"Moore Ranch Airport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"29LA","type":"heliport","name":"Our Lady of the Lake R.M.C. Heliport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"2AR0","type":"small_airport","name":"Bully Henry Airport","continent":"NA","country_code":"US","iso_region":"US-AR","region":"AR"}
+{"airport_code":"2FD7","type":"heliport","name":"Air Orlando Heliport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"2MT7","type":"heliport","name":"Barnaby Lake Medivac Site Heliport","continent":"NA","country_code":"US","iso_region":"US-MT","region":"MT"}
+{"airport_code":"2X2","type":"seaplane_base","name":"Willow Seaplane Base","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"35FD","type":"small_airport","name":"Rush Airport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"37ID","type":"small_airport","name":"Hungry Ridge Ranch Airport","continent":"NA","country_code":"US","iso_region":"US-ID","region":"ID"}
+{"airport_code":"3EX","type":"small_airport","name":"Excelsior Springs Memorial Airport","continent":"NA","country_code":"US","iso_region":"US-MO","region":"MO"}
+{"airport_code":"3FD4","type":"small_airport","name":"Florida Flying Gators Ultralightport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"3NY7","type":"small_airport","name":"Hiserts Airpark Inc Airport","continent":"NA","country_code":"US","iso_region":"US-NY","region":"NY"}
+{"airport_code":"3PN5","type":"heliport","name":"H.G.F. Heliport","continent":"NA","country_code":"US","iso_region":"US-PA","region":"PA"}
+{"airport_code":"40NJ","type":"heliport","name":"Osterman Heliport","continent":"NA","country_code":"US","iso_region":"US-NJ","region":"NJ"}
+{"airport_code":"41AR","type":"small_airport","name":"Ashworth Airport","continent":"NA","country_code":"US","iso_region":"US-AR","region":"AR"}
+{"airport_code":"41CA","type":"small_airport","name":"Silver Creek Ranch Airport","continent":"NA","country_code":"US","iso_region":"US-CA","region":"CA"}
+{"airport_code":"45NJ","type":"heliport","name":"Raven's Nest Heliport","continent":"NA","country_code":"US","iso_region":"US-NJ","region":"NJ"}
+{"airport_code":"46KY","type":"heliport","name":"St Luke Hospital Heliport","continent":"NA","country_code":"US","iso_region":"US-KY","region":"KY"}
+{"airport_code":"49OR","type":"small_airport","name":"Land's Inn Ranch Airport","continent":"NA","country_code":"US","iso_region":"US-OR","region":"OR"}
+{"airport_code":"4TN4","type":"small_airport","name":"Cotton Field","continent":"NA","country_code":"US","iso_region":"US-TN","region":"TN"}
+{"airport_code":"50PN","type":"heliport","name":"Delmont Personal Use Heliport","continent":"NA","country_code":"US","iso_region":"US-PA","region":"PA"}
+{"airport_code":"57OK","type":"heliport","name":"Atoka Memorial Hospital Heliport","continent":"NA","country_code":"US","iso_region":"US-OK","region":"OK"}
+{"airport_code":"5AL9","type":"heliport","name":"Athens-Limestone Hospital Helipad","continent":"NA","country_code":"US","iso_region":"US-AL","region":"AL"}
+{"airport_code":"5FL1","type":"small_airport","name":"Ezell Airport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"5NE9","type":"small_airport","name":"Dodson Brothers Airport","continent":"NA","country_code":"US","iso_region":"US-NE","region":"NE"}
+{"airport_code":"5WV5","type":"heliport","name":"St Joseph's Hospital Heliport","continent":"NA","country_code":"US","iso_region":"US-WV","region":"WV"}
+{"airport_code":"63VA","type":"heliport","name":"Mannboro Medical Center Heliport","continent":"NA","country_code":"US","iso_region":"US-VA","region":"VA"}
+{"airport_code":"6AL3","type":"closed","name":"Sweet Home Airport","continent":"NA","country_code":"US","iso_region":"US-AL","region":"AL"}
+{"airport_code":"6FL7","type":"heliport","name":"Timmer Heliport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"6GA0","type":"small_airport","name":"Stoney Point Field","continent":"NA","country_code":"US","iso_region":"US-GA","region":"GA"}
+{"airport_code":"6LA6","type":"small_airport","name":"Williams Flying Service Airport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"6Y2","type":"heliport","name":"Candlelight Heliport","continent":"NA","country_code":"US","iso_region":"US-CT","region":"CT"}
+{"airport_code":"73TS","type":"heliport","name":"Fire Department Training Center Heliport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"7WI9","type":"small_airport","name":"Nett Construction Airport","continent":"NA","country_code":"US","iso_region":"US-WI","region":"WI"}
+{"airport_code":"86IL","type":"small_airport","name":"Sharp Airport","continent":"NA","country_code":"US","iso_region":"US-IL","region":"IL"}
+{"airport_code":"8AK6","type":"small_airport","name":"Little Susitna Airport","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"8FA4","type":"small_airport","name":"Samsula / Coe Field","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"96FD","type":"small_airport","name":"Citrus Hedging Ranch Airport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"9LA7","type":"heliport","name":"Air Logistics;  Amelia Base Heliport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"9PN7","type":"small_airport","name":"Veit Airport","continent":"NA","country_code":"US","iso_region":"US-PA","region":"PA"}
+{"airport_code":"AK55","type":"small_airport","name":"Moose Run Airstrip","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"AL27","type":"small_airport","name":"Headquarters Airport","continent":"NA","country_code":"US","iso_region":"US-AL","region":"AL"}
+{"airport_code":"AR-0097","type":"small_airport","name":"Chacharramendi Airport","continent":"SA","country_code":"AR","iso_region":"AR-L","region":"L"}
+{"airport_code":"AR-0609","type":"small_airport","name":"BahÃ­a Laura Airport","continent":"SA","country_code":"AR","iso_region":"AR-Z","region":"Z"}
+{"airport_code":"AYKI","type":"small_airport","name":"Kiunga Airport","continent":"OC","country_code":"PG","iso_region":"PG-WPD","region":"WPD"}
+{"airport_code":"AZ-0021","type":"medium_airport","name":"Kyzylagadzh Air Base","continent":"AS","country_code":"AZ","iso_region":"AZ-MAS","region":"MAS"}
+{"airport_code":"B70","type":"small_airport","name":"Tiber Dam Airport","continent":"NA","country_code":"US","iso_region":"US-MT","region":"MT"}
+{"airport_code":"BB-0001","type":"heliport","name":"[à¤¶à¥à¤°à¥] GURU JI ]{+91-9680118734} business loss problem solution baba ji in ahmedabad,mp","continent":"NA","country_code":"BB","iso_region":"BB-01","region":"01"}
+{"airport_code":"BG-0055","type":"small_airport","name":"Shumen Airfield","continent":"EU","country_code":"BG","iso_region":"BG-27","region":"27"}
+{"airport_code":"BONI","type":"small_airport","name":"Bonita","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"BR-0258","type":"small_airport","name":"Yanomami Airstrip","continent":"SA","country_code":"BR","iso_region":"BR-AM","region":"AM"}
+{"airport_code":"BR-0326","type":"small_airport","name":"Guatambu SÃ£o Paulo Airport","continent":"SA","country_code":"BR","iso_region":"BR-SP","region":"SP"}
+{"airport_code":"BY-0027","type":"small_airport","name":"Kisyali Airfield","continent":"EU","country_code":"BY","iso_region":"BY-MI","region":"MI"}
+{"airport_code":"CA-0086","type":"closed","name":"Cavendish Airport","continent":"NA","country_code":"CA","iso_region":"CA-AB","region":"AB"}
+{"airport_code":"CA-0186","type":"closed","name":"Ketza River Airport","continent":"NA","country_code":"CA","iso_region":"CA-YT","region":"YT"}
+{"airport_code":"CA-0504","type":"small_airport","name":"Mary River Aerodrome","continent":"NA","country_code":"CA","iso_region":"CA-NU","region":"NU"}
+{"airport_code":"CAN3","type":"seaplane_base","name":"Ucluelet Seaplane Base","continent":"NA","country_code":"CA","iso_region":"CA-BC","region":"BC"}
+{"airport_code":"CBF6","type":"heliport","name":"Seal Cove (Public) Heliport","continent":"NA","country_code":"CA","iso_region":"CA-BC","region":"BC"}
+{"airport_code":"CCL2","type":"small_airport","name":"Candle Lake Airpark","continent":"NA","country_code":"CA","iso_region":"CA-SK","region":"SK"}
+{"airport_code":"CEJ9","type":"seaplane_base","name":"Watson Lake Seaplane Base","continent":"NA","country_code":"CA","iso_region":"CA-YT","region":"YT"}
+{"airport_code":"CJC2","type":"small_airport","name":"Craik Airport","continent":"NA","country_code":"CA","iso_region":"CA-SK","region":"SK"}
+{"airport_code":"CN-0024","type":"medium_airport","name":"Zhangjiakou Ningyuan Airport","continent":"AS","country_code":"CN","iso_region":"CN-13","region":"13"}
+{"airport_code":"CN-0062","type":"small_airport","name":"Bazhong Enyang Airport","continent":"AS","country_code":"CN","iso_region":"CN-51","region":"51"}
+{"airport_code":"CN46","type":"heliport","name":"The McConnell Foundation Heliport","continent":"NA","country_code":"US","iso_region":"US-CA","region":"CA"}
+{"airport_code":"cnl7","type":"small_airport","name":"Nobel / Lumsden Air Park","continent":"NA","country_code":"CA","iso_region":"CA-ON","region":"ON"}
+{"airport_code":"CO-0019","type":"heliport","name":"Palacio Municipal Heliport","continent":"SA","country_code":"CO","iso_region":"CO-ANT","region":"ANT"}
+{"airport_code":"CSU7","type":"small_airport","name":"Lac-Ã -la-Tortue (Water Aerodrome) Airport","continent":"NA","country_code":"CA","iso_region":"CA-QC","region":"QC"}
+{"airport_code":"CYCS","type":"medium_airport","name":"Chesterfield Inlet Airport","continent":"NA","country_code":"CA","iso_region":"CA-NU","region":"NU"}
+{"airport_code":"CYHA","type":"medium_airport","name":"Quaqtaq Airport","continent":"NA","country_code":"CA","iso_region":"CA-QC","region":"QC"}
+{"airport_code":"CYVZ","type":"medium_airport","name":"Deer Lake Airport","continent":"NA","country_code":"CA","iso_region":"CA-ON","region":"ON"}
+{"airport_code":"CZ-0129","type":"small_airport","name":"OsiÄiny Airstrip","continent":"EU","country_code":"CZ","iso_region":"CZ-U-A","region":"U"}
+{"airport_code":"DE-0021","type":"heliport","name":"Biblis Nuclear Power Plant Helipad","continent":"EU","country_code":"DE","iso_region":"DE-HE","region":"HE"}
+{"airport_code":"DE-0260","type":"small_airport","name":"MÃ¶nchsheide Airfield","continent":"EU","country_code":"DE","iso_region":"DE-RP","region":"RP"}
+{"airport_code":"DE-0268","type":"heliport","name":"TÃ¼bingen University Hospital Helipad","continent":"EU","country_code":"DE","iso_region":"DE-BW","region":"BW"}
+{"airport_code":"DVD","type":"small_airport","name":"Andavadoaka Airport","continent":"AF","country_code":"MG","iso_region":"MG-U","region":"U"}
+{"airport_code":"E81","type":"small_airport","name":"Superior Municipal Airport","continent":"NA","country_code":"US","iso_region":"US-AZ","region":"AZ"}
+{"airport_code":"EDSN","type":"small_airport","name":"Neuhausen ob Eck Airport","continent":"EU","country_code":"DE","iso_region":"DE-BW","region":"BW"}
+{"airport_code":"EDSW","type":"small_airport","name":"Altdorf-Wallburg Airport","continent":"EU","country_code":"DE","iso_region":"DE-BW","region":"BW"}
+{"airport_code":"EFKJ","type":"medium_airport","name":"Kauhajoki Airport","continent":"EU","country_code":"FI","iso_region":"FI-LS","region":"LS"}
+{"airport_code":"EGTG","type":"closed","name":"Bristol Filton Airport","continent":"EU","country_code":"GB","iso_region":"GB-ENG","region":"ENG"}
+{"airport_code":"EIMY","type":"small_airport","name":"Moyne Aerodrome","continent":"EU","country_code":"IE","iso_region":"IE-TA","region":"TA"}
+{"airport_code":"EJT","type":"small_airport","name":"Enejit Airport","continent":"OC","country_code":"MH","iso_region":"MH-MIL","region":"MIL"}
+{"airport_code":"EPCH","type":"small_airport","name":"CzÄstochowa-Rudniki","continent":"EU","country_code":"PL","iso_region":"PL-SL","region":"SL"}
+{"airport_code":"EPSN","type":"medium_airport","name":"Swidwin Military Air Base","continent":"EU","country_code":"PL","iso_region":"PL-ZP","region":"ZP"}
+{"airport_code":"ES-0088","type":"small_airport","name":"AerÃ³dromo BenagÃ©ber","continent":"EU","country_code":"ES","iso_region":"ES-V","region":"V"}
+{"airport_code":"FA45","type":"heliport","name":"Lake Wales Heliport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"FAQT","type":"medium_airport","name":"Queenstown Airport","continent":"AF","country_code":"ZA","iso_region":"ZA-EC","region":"EC"}
+{"airport_code":"FCOU","type":"medium_airport","name":"Ouesso Airport","continent":"AF","country_code":"CG","iso_region":"CG-13","region":"13"}
+{"airport_code":"FKKC","type":"medium_airport","name":"Tiko Airport","continent":"AF","country_code":"CM","iso_region":"CM-SW","region":"SW"}
+{"airport_code":"FL68","type":"heliport","name":"Sheriff's South Multi District Office Heliport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"FR-0351","type":"seaplane_base","name":"Base Hydro-ULM RhÃ´ne Lavours","continent":"EU","country_code":"FR","iso_region":"FR-V","region":"V"}
+{"airport_code":"FVTL","type":"medium_airport","name":"Thornhill Air Base","continent":"AF","country_code":"ZW","iso_region":"ZW-MI","region":"MI"}
+{"airport_code":"FZNR","type":"small_airport","name":"Rwindi Airport","continent":"AF","country_code":"CD","iso_region":"CD-NK","region":"NK"}
+{"airport_code":"FZRM","type":"small_airport","name":"Kabalo Airport","continent":"AF","country_code":"CD","iso_region":"CD-KA","region":"KA"}
+{"airport_code":"GB-0117","type":"closed","name":"RAF Bibury","continent":"EU","country_code":"GB","iso_region":"GB-ENG","region":"ENG"}
+{"airport_code":"GB-0275","type":"small_airport","name":"Lydeway field","continent":"EU","country_code":"GB","iso_region":"GB-ENG","region":"ENG"}
+{"airport_code":"GB-0492","type":"small_airport","name":"Rattlesden","continent":"EU","country_code":"GB","iso_region":"GB-ENG","region":"ENG"}
+{"airport_code":"GE-0015","type":"small_airport","name":"Pskhu","continent":"AS","country_code":"GE","iso_region":"GE-AB","region":"AB"}
+{"airport_code":"HE20","type":"small_airport","name":"Ras Jimsah New Airport","continent":"AF","country_code":"EG","iso_region":"EG-BA","region":"BA"}
+{"airport_code":"HI32","type":"small_airport","name":"Pepeekeo Airstrip","continent":"NA","country_code":"US","iso_region":"US-HI","region":"HI"}
+{"airport_code":"HI49","type":"small_airport","name":"Panda Airport","continent":"NA","country_code":"US","iso_region":"US-HI","region":"HI"}
+{"airport_code":"HKTW","type":"small_airport","name":"Tawi airfield","continent":"AF","country_code":"KE","iso_region":"KE-900","region":"900"}
+{"airport_code":"ID-0116","type":"small_airport","name":"Panggema/Hasan Airport","continent":"AS","country_code":"ID","iso_region":"ID-PA","region":"PA"}
+{"airport_code":"IL40","type":"heliport","name":"St Joseph Medical Center - Bloomington Heliport","continent":"NA","country_code":"US","iso_region":"US-IL","region":"IL"}
+{"airport_code":"IMA","type":"small_airport","name":"Iamalele Airport","continent":"OC","country_code":"PG","iso_region":"PG-MBA","region":"MBA"}
+{"airport_code":"IN-0039","type":"heliport","name":"Lebong Helipad","continent":"AS","country_code":"IN","iso_region":"IN-WB","region":"WB"}
+{"airport_code":"IN-0094","type":"closed","name":"no airport","continent":"AS","country_code":"IN","iso_region":"IN-OR","region":"OR"}
+{"airport_code":"IT-0150","type":"small_airport","name":"Aviosuperficie F. Baracca","continent":"EU","country_code":"IT","iso_region":"IT-34","region":"34"}
+{"airport_code":"IT-0228","type":"small_airport","name":"Campo di Volo Gianni Cerutti","continent":"EU","country_code":"IT","iso_region":"IT-21","region":"21"}
+{"airport_code":"K5M4","type":"small_airport","name":"Fordyce Municipal Airport","continent":"NA","country_code":"US","iso_region":"US-AR","region":"AR"}
+{"airport_code":"K5S0","type":"small_airport","name":"Oakridge State Airport","continent":"NA","country_code":"US","iso_region":"US-OR","region":"OR"}
+{"airport_code":"K63C","type":"small_airport","name":"Adams County Legion Field","continent":"NA","country_code":"US","iso_region":"US-WI","region":"WI"}
+{"airport_code":"KBPP","type":"closed","name":"Bowman Municipal Airport","continent":"NA","country_code":"US","iso_region":"US-ND","region":"ND"}
+{"airport_code":"KCIU","type":"medium_airport","name":"Chippewa County International Airport","continent":"NA","country_code":"US","iso_region":"US-MI","region":"MI"}
+{"airport_code":"KCMX","type":"medium_airport","name":"Houghton County Memorial Airport","continent":"NA","country_code":"US","iso_region":"US-MI","region":"MI"}
+{"airport_code":"KE13","type":"small_airport","name":"Crane County Airport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"KF53","type":"small_airport","name":"Franklin County Airport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"KJYO","type":"small_airport","name":"Leesburg Executive Airport","continent":"NA","country_code":"US","iso_region":"US-VA","region":"VA"}
+{"airport_code":"KLAW","type":"medium_airport","name":"Lawton Fort Sill Regional Airport","continent":"NA","country_code":"US","iso_region":"US-OK","region":"OK"}
+{"airport_code":"KMPR","type":"small_airport","name":"Mc Pherson Airport","continent":"NA","country_code":"US","iso_region":"US-KS","region":"KS"}
+{"airport_code":"KPRG","type":"small_airport","name":"Edgar County Airport","continent":"NA","country_code":"US","iso_region":"US-IL","region":"IL"}
+{"airport_code":"KR-0009","type":"heliport","name":"C 137 Heliport","continent":"AS","country_code":"KR","iso_region":"KR-41","region":"41"}
+{"airport_code":"KR-0190","type":"heliport","name":"Cheondo-ri East Helipad","continent":"AS","country_code":"KR","iso_region":"KR-42","region":"42"}
+{"airport_code":"KR-0555","type":"heliport","name":"Cheongsong-ro Heliport","continent":"AS","country_code":"KR","iso_region":"KR-41","region":"41"}
+{"airport_code":"KR-0667","type":"heliport","name":"Korea Economic Daily Heliport","continent":"AS","country_code":"KR","iso_region":"KR-11","region":"11"}
+{"airport_code":"KR-0748","type":"heliport","name":"Seoul Finance Center Heliport","continent":"AS","country_code":"KR","iso_region":"KR-11","region":"11"}
+{"airport_code":"KR-0837","type":"heliport","name":"Miwon Building Heliport","continent":"AS","country_code":"KR","iso_region":"KR-11","region":"11"}
+{"airport_code":"KROW","type":"medium_airport","name":"Roswell International Air Center Airport","continent":"NA","country_code":"US","iso_region":"US-NM","region":"NM"}
+{"airport_code":"KSRB","type":"small_airport","name":"Upper Cumberland Regional Airport","continent":"NA","country_code":"US","iso_region":"US-TN","region":"TN"}
+{"airport_code":"KTFP","type":"small_airport","name":"McCampbell-Porter Airport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"KVRB","type":"medium_airport","name":"Vero Beach Regional Airport","continent":"NA","country_code":"US","iso_region":"US-FL","region":"FL"}
+{"airport_code":"KZ-0084","type":"small_airport","name":"Gora Sasyrly Airport","continent":"AS","country_code":"KZ","iso_region":"KZ-KAR","region":"KAR"}
+{"airport_code":"LA69","type":"heliport","name":"Jenkins Heliport","continent":"NA","country_code":"US","iso_region":"US-LA","region":"LA"}
+{"airport_code":"LERE","type":"small_airport","name":"AerÃ³dromo Requena El Rebollar","continent":"EU","country_code":"ES","iso_region":"ES-V","region":"V"}
+{"airport_code":"LETZ","type":"small_airport","name":"Torozos Airport","continent":"EU","country_code":"ES","iso_region":"ES-CL","region":"CL"}
+{"airport_code":"LFBU","type":"medium_airport","name":"AngoulÃªme-Brie-Champniers Airport","continent":"EU","country_code":"FR","iso_region":"FR-T","region":"T"}
+{"airport_code":"LFEX","type":"small_airport","name":"Nancy Azelot Airfield","continent":"EU","country_code":"FR","iso_region":"FR-M","region":"M"}
+{"airport_code":"LFJB","type":"small_airport","name":"MaulÃ©on Airport","continent":"EU","country_code":"FR","iso_region":"FR-T","region":"T"}
+{"airport_code":"LFOR","type":"small_airport","name":"Chartres â MÃ©tropole Airport","continent":"EU","country_code":"FR","iso_region":"FR-F","region":"F"}
+{"airport_code":"LFRO","type":"medium_airport","name":"Lannion-CÃ´te de Granit Airport","continent":"EU","country_code":"FR","iso_region":"FR-E","region":"E"}
+{"airport_code":"LGKA","type":"small_airport","name":"Kastoria National Airport","continent":"EU","country_code":"GR","iso_region":"GR-56","region":"56"}
+{"airport_code":"LIPH","type":"large_airport","name":"Treviso-Sant'Angelo Airport","continent":"EU","country_code":"IT","iso_region":"IT-34","region":"34"}
+{"airport_code":"LJSG","type":"small_airport","name":"Slovenj Gradec Airport","continent":"EU","country_code":"SI","iso_region":"SI-112","region":"112"}
+{"airport_code":"LOXS","type":"heliport","name":"Schwarzenbergkaserne Military Heliport","continent":"EU","country_code":"AT","iso_region":"AT-5","region":"5"}
+{"airport_code":"MA80","type":"small_airport","name":"Mundale Airport","continent":"NA","country_code":"US","iso_region":"US-MA","region":"MA"}
+{"airport_code":"MD11","type":"small_airport","name":"Wright Field","continent":"NA","country_code":"US","iso_region":"US-MD","region":"MD"}
+{"airport_code":"MM54","type":"small_airport","name":"Rancho Marina Vieja Airport","continent":"NA","country_code":"MX","iso_region":"MX-TAM","region":"TAM"}
+{"airport_code":"MRCC","type":"medium_airport","name":"Coto 47 Airport","continent":"NA","country_code":"CR","iso_region":"CR-P","region":"P"}
+{"airport_code":"MRCJ","type":"small_airport","name":"Cajuela/San Isidro Airport","continent":"NA","country_code":"CR","iso_region":"CR-SJ","region":"SJ"}
+{"airport_code":"MRRM","type":"heliport","name":"Los SueÃ±os Heliport","continent":"NA","country_code":"CR","iso_region":"CR-P","region":"P"}
+{"airport_code":"MX-0181","type":"small_airport","name":"Palizada Airport","continent":"NA","country_code":"MX","iso_region":"MX-CAM","region":"CAM"}
+{"airport_code":"MX-0190","type":"small_airport","name":"Paco Airport","continent":"NA","country_code":"MX","iso_region":"MX-JAL","region":"JAL"}
+{"airport_code":"MX-0572","type":"heliport","name":"Centro Corporativo Santander Heliport","continent":"NA","country_code":"MX","iso_region":"MX-DIF","region":"DIF"}
+{"airport_code":"MX-0596","type":"seaplane_base","name":"Paredes Seaplane Base","continent":"NA","country_code":"MX","iso_region":"MX-SON","region":"SON"}
+{"airport_code":"MX-0641","type":"small_airport","name":"Cerros Colorados Airport","continent":"NA","country_code":"MX","iso_region":"MX-DUR","region":"DUR"}
+{"airport_code":"MX-0715","type":"heliport","name":"Grupo Imagen Heliport","continent":"NA","country_code":"MX","iso_region":"MX-DIF","region":"DIF"}
+{"airport_code":"NA-0044","type":"small_airport","name":"Moscow Landing Site","continent":"AF","country_code":"NA","iso_region":"NA-HA","region":"HA"}
+{"airport_code":"NA-0106","type":"small_airport","name":"Bimsfarm Landing Site","continent":"AF","country_code":"NA","iso_region":"NA-HA","region":"HA"}
+{"airport_code":"ND41","type":"small_airport","name":"Voller Airport","continent":"NA","country_code":"US","iso_region":"US-ND","region":"ND"}
+{"airport_code":"NH36","type":"heliport","name":"Weeks Medical Center Heliport","continent":"NA","country_code":"US","iso_region":"US-NH","region":"NH"}
+{"airport_code":"NJ71","type":"heliport","name":"Holmansville Heliport","continent":"NA","country_code":"US","iso_region":"US-NJ","region":"NJ"}
+{"airport_code":"NK77","type":"heliport","name":"Niagara Falls Memorial Parking Ramp Heliport","continent":"NA","country_code":"US","iso_region":"US-NY","region":"NY"}
+{"airport_code":"NL-0015","type":"heliport","name":"Universitair Medisch Centrum Utrecht Heliport","continent":"EU","country_code":"NL","iso_region":"NL-UT","region":"UT"}
+{"airport_code":"PA-OTD","type":"small_airport","name":"Contadora Airport","continent":"NA","country_code":"PA","iso_region":"PA-8","region":"8"}
+{"airport_code":"PA09","type":"heliport","name":"Hendrick Landing Area Heliport","continent":"NA","country_code":"US","iso_region":"US-PA","region":"PA"}
+{"airport_code":"PAGK","type":"medium_airport","name":"Gulkana Airport","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"PALG","type":"small_airport","name":"Kalskag Airport","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"PAPN","type":"small_airport","name":"Pilot Point Airport","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"PG-IIS","type":"small_airport","name":"Nissan Island Airport","continent":"OC","country_code":"PG","iso_region":"PG-NSB","region":"NSB"}
+{"airport_code":"PH-0087","type":"small_airport","name":"Apuao Grande Island Airstrip","continent":"AS","country_code":"PH","iso_region":"PH-QUE","region":"QUE"}
+{"airport_code":"PK-REQ","type":"small_airport","name":"Reko Diq Airport","continent":"AS","country_code":"PK","iso_region":"PK-BA","region":"BA"}
+{"airport_code":"PL-0096","type":"small_airport","name":"CheÅmÅ¼yca Airstrip","continent":"EU","country_code":"PL","iso_region":"PL-U-A","region":"U"}
+{"airport_code":"PL-0122","type":"small_airport","name":"LÄdowisko TarnÃ³w","continent":"EU","country_code":"PL","iso_region":"PL-MA","region":"MA"}
+{"airport_code":"PS68","type":"small_airport","name":"Buckingham Airport","continent":"NA","country_code":"US","iso_region":"US-PA","region":"PA"}
+{"airport_code":"PT-0004","type":"heliport","name":"Hospital Amadora Heliport","continent":"EU","country_code":"PT","iso_region":"PT-11","region":"11"}
+{"airport_code":"PY-0025","type":"small_airport","name":"Estancia Coeyu Airport","continent":"SA","country_code":"PY","iso_region":"PY-15","region":"15"}
+{"airport_code":"RCSS","type":"medium_airport","name":"Taipei Songshan Airport","continent":"AS","country_code":"TW","iso_region":"TW-TPE","region":"TPE"}
+{"airport_code":"RI24","type":"heliport","name":"Duke Heliport","continent":"NA","country_code":"US","iso_region":"US-RI","region":"RI"}
+{"airport_code":"RJFO","type":"medium_airport","name":"Oita Airport","continent":"AS","country_code":"JP","iso_region":"JP-44","region":"44"}
+{"airport_code":"RK2Y","type":"heliport","name":"C 265 Heliport","continent":"AS","country_code":"KR","iso_region":"KR-41","region":"41"}
+{"airport_code":"RKNW","type":"medium_airport","name":"Wonju/Hoengseong Air Base (K-38/K-46)","continent":"AS","country_code":"KR","iso_region":"KR-42","region":"42"}
+{"airport_code":"RKRG","type":"small_airport","name":"Yang Pyeong (G 301) Airport","continent":"AS","country_code":"KR","iso_region":"KR-41","region":"41"}
+{"airport_code":"RPLJ","type":"small_airport","name":"Jomalig Island Airport","continent":"AS","country_code":"PH","iso_region":"PH-QUE","region":"QUE"}
+{"airport_code":"RU-0134","type":"small_airport","name":"Chizha Airport","continent":"EU","country_code":"RU","iso_region":"RU-ARK","region":"ARK"}
+{"airport_code":"RU-0419","type":"closed","name":"Maksatikha Airport","continent":"EU","country_code":"RU","iso_region":"RU-TVE","region":"TVE"}
+{"airport_code":"S31","type":"small_airport","name":"Lopez Island Airport","continent":"NA","country_code":"US","iso_region":"US-WA","region":"WA"}
+{"airport_code":"SATU","type":"medium_airport","name":"Curuzu Cuatia Airport","continent":"SA","country_code":"AR","iso_region":"AR-W","region":"W"}
+{"airport_code":"SAZL","type":"medium_airport","name":"Santa Teresita Airport","continent":"SA","country_code":"AR","iso_region":"AR-B","region":"B"}
+{"airport_code":"SBBH","type":"medium_airport","name":"Pampulha - Carlos Drummond de Andrade Airport","continent":"SA","country_code":"BR","iso_region":"BR-MG","region":"MG"}
+{"airport_code":"SDAX","type":"heliport","name":"Bradesco - Sta CecÃ­lia Heliport","continent":"SA","country_code":"BR","iso_region":"BR-SP","region":"SP"}
+{"airport_code":"SDQZ","type":"small_airport","name":"Fazenda EspinhaÃ§o II Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SDVR","type":"heliport","name":"Hospital Dr.OsÃ­ris Florindo Coelho Heliport","continent":"SA","country_code":"BR","iso_region":"BR-SP","region":"SP"}
+{"airport_code":"SGCO","type":"small_airport","name":"Teniente Col Carmelo Peralta Airport","continent":"SA","country_code":"PY","iso_region":"PY-1","region":"1"}
+{"airport_code":"SIOK","type":"small_airport","name":"Fazenda Ãgua Doce Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SITV","type":"small_airport","name":"Fazenda ChapadÃ£o Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SJBE","type":"heliport","name":"OrtosÃ­ntese Heliport","continent":"SA","country_code":"BR","iso_region":"BR-SP","region":"SP"}
+{"airport_code":"SJGP","type":"small_airport","name":"Fazenda Grupal Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SJOX","type":"small_airport","name":"Fazenda Brinquinho Airport","continent":"SA","country_code":"BR","iso_region":"BR-BA","region":"BA"}
+{"airport_code":"SK-152","type":"small_airport","name":"Casacara Cayta Airport","continent":"SA","country_code":"CO","iso_region":"CO-CES","region":"CES"}
+{"airport_code":"SK-416","type":"small_airport","name":"FacÃ³n SaldaÃ±a Airport","continent":"SA","country_code":"CO","iso_region":"CO-TOL","region":"TOL"}
+{"airport_code":"SLBF","type":"small_airport","name":"Blanca Flor Airport","continent":"SA","country_code":"BO","iso_region":"BO-N","region":"N"}
+{"airport_code":"SLMG","type":"small_airport","name":"Magdalena Airport","continent":"SA","country_code":"BO","iso_region":"BO-B","region":"B"}
+{"airport_code":"SNLJ","type":"small_airport","name":"AgropecuÃ¡ria CÃ©u Aberto Ltda Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SNMJ","type":"small_airport","name":"MaracÃ¡s Airport","continent":"SA","country_code":"BR","iso_region":"BR-BA","region":"BA"}
+{"airport_code":"SNVO","type":"small_airport","name":"Fazenda Pontal Airport","continent":"SA","country_code":"BR","iso_region":"BR-MG","region":"MG"}
+{"airport_code":"SNWX","type":"closed","name":"Newton Heliport","continent":"SA","country_code":"BR","iso_region":"BR-SP","region":"SP"}
+{"airport_code":"SSBS","type":"small_airport","name":"Fazenda Boa EsperanÃ§a Airport","continent":"SA","country_code":"BR","iso_region":"BR-MS","region":"MS"}
+{"airport_code":"SSDT","type":"small_airport","name":"Fazenda Pau D`Arco Airport","continent":"SA","country_code":"BR","iso_region":"BR-PA","region":"PA"}
+{"airport_code":"SSJI","type":"small_airport","name":"Jardim Airport","continent":"SA","country_code":"BR","iso_region":"BR-MS","region":"MS"}
+{"airport_code":"SVNE","type":"small_airport","name":"Las Mercedes Airport","continent":"SA","country_code":"VE","iso_region":"VE-E","region":"E"}
+{"airport_code":"SVOA","type":"small_airport","name":"San Lorenzo De Barinas Airport","continent":"SA","country_code":"VE","iso_region":"VE-E","region":"E"}
+{"airport_code":"SWDK","type":"small_airport","name":"Fazenda Dona Olga Airport","continent":"SA","country_code":"BR","iso_region":"BR-RO","region":"RO"}
+{"airport_code":"SWDY","type":"small_airport","name":"Fazenda Ãgua Fria Airport","continent":"SA","country_code":"BR","iso_region":"BR-GO","region":"GO"}
+{"airport_code":"SWFD","type":"small_airport","name":"Fazenda Tombador Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SWPT","type":"small_airport","name":"Fazenda Piratinga Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"SWVV","type":"small_airport","name":"Fazenda Bela Vista Airport","continent":"SA","country_code":"BR","iso_region":"BR-MT","region":"MT"}
+{"airport_code":"TS19","type":"heliport","name":"Gws Inc Construction Heliport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"TS67","type":"small_airport","name":"Kitty Hawk Flying Field","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"TZ-0104","type":"small_airport","name":"Msima 1 Airport","continent":"AF","country_code":"TZ","iso_region":"TZ-20","region":"20"}
+{"airport_code":"UA-0010","type":"medium_airport","name":"Oktyabrskoe Air Base","continent":"EU","country_code":"UA","iso_region":"UA-43","region":"43"}
+{"airport_code":"UA-0011","type":"closed","name":"Karankut Air Base","continent":"EU","country_code":"UA","iso_region":"UA-43","region":"43"}
+{"airport_code":"UHAW","type":"small_airport","name":"Vayegi Airport","continent":"EU","country_code":"RU","iso_region":"RU-CHU","region":"CHU"}
+{"airport_code":"ULAP","type":"small_airport","name":"Karpogory Airport","continent":"EU","country_code":"RU","iso_region":"RU-ARK","region":"ARK"}
+{"airport_code":"ULMO","type":"closed","name":"Ponoy Airfield","continent":"EU","country_code":"RU","iso_region":"RU-MUR","region":"MUR"}
+{"airport_code":"ULPB","type":"medium_airport","name":"Petrozavodsk Airport","continent":"EU","country_code":"RU","iso_region":"RU-KR","region":"KR"}
+{"airport_code":"US-0487","type":"small_airport","name":"Mena Airport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"US-0637","type":"small_airport","name":"Peltz Field","continent":"NA","country_code":"US","iso_region":"US-IA","region":"IA"}
+{"airport_code":"US-0815","type":"small_airport","name":"Horning Farms Airstrip","continent":"NA","country_code":"US","iso_region":"US-OK","region":"OK"}
+{"airport_code":"US-0890","type":"small_airport","name":"Miller Airport","continent":"NA","country_code":"US","iso_region":"US-NY","region":"NY"}
+{"airport_code":"US-0895","type":"small_airport","name":"Woodley 2 Airport","continent":"NA","country_code":"US","iso_region":"US-IL","region":"IL"}
+{"airport_code":"UZ-0078","type":"small_airport","name":"Faizabad Airport","continent":"AS","country_code":"UZ","iso_region":"UZ-QA","region":"QA"}
+{"airport_code":"UZ-0125","type":"small_airport","name":"Shamaldy Say Southeast Airport","continent":"AS","country_code":"UZ","iso_region":"UZ-AN","region":"AN"}
+{"airport_code":"VA94","type":"small_airport","name":"Plainview Airport","continent":"NA","country_code":"US","iso_region":"US-VA","region":"VA"}
+{"airport_code":"VE-0065","type":"heliport","name":"Ensco IV Heliport","continent":"SA","country_code":"VE","iso_region":"VE-V","region":"V"}
+{"airport_code":"VEMN","type":"medium_airport","name":"Dibrugarh Airport","continent":"AS","country_code":"IN","iso_region":"IN-AS","region":"AS"}
+{"airport_code":"VOCI","type":"large_airport","name":"Cochin International Airport","continent":"AS","country_code":"IN","iso_region":"IN-KL","region":"KL"}
+{"airport_code":"WAAL","type":"small_airport","name":"Ponggaluku Airport","continent":"AS","country_code":"ID","iso_region":"ID-SG","region":"SG"}
+{"airport_code":"WBGI","type":"small_airport","name":"Long Seridan Airport","continent":"AS","country_code":"MY","iso_region":"MY-13","region":"13"}
+{"airport_code":"WGU","type":"closed","name":"Wagau Airport","continent":"OC","country_code":"PG","iso_region":"PG-MPL","region":"MPL"}
+{"airport_code":"WN01","type":"heliport","name":"Seattle Private Number One Heliport","continent":"NA","country_code":"US","iso_region":"US-WA","region":"WA"}
+{"airport_code":"WSJ","type":"seaplane_base","name":"San Juan /Uganik/ Seaplane Base","continent":"NA","country_code":"US","iso_region":"US-AK","region":"AK"}
+{"airport_code":"XA79","type":"heliport","name":"Baylor Regional Medical Center At Plano Heliport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"XS83","type":"heliport","name":"Methodist Hospital Heliport","continent":"NA","country_code":"US","iso_region":"US-TX","region":"TX"}
+{"airport_code":"YCAH","type":"small_airport","name":"Coolah Airport","continent":"OC","country_code":"AU","iso_region":"AU-NSW","region":"NSW"}
+{"airport_code":"YGOV","type":"small_airport","name":"Gabo Is aAd sSte Airport","continent":"OC","country_code":"AU","iso_region":"AU-VIC","region":"VIC"}
+{"airport_code":"YOOO","type":"small_airport","name":"Mooloola Homestead Airport","continent":"OC","country_code":"AU","iso_region":"AU-NT","region":"NT"}
+{"airport_code":"YPJI","type":"small_airport","name":"Perenjori Airport","continent":"OC","country_code":"AU","iso_region":"AU-WA","region":"WA"}
+{"airport_code":"YRDA","type":"small_airport","name":"Yardea Airport","continent":"OC","country_code":"AU","iso_region":"AU-SA","region":"SA"}
+{"airport_code":"YSMY","type":"small_airport","name":"Strathmay Airport","continent":"OC","country_code":"AU","iso_region":"AU-QLD","region":"QLD"}
+{"airport_code":"YXSH","type":"heliport","name":"Shellharbour Hospital Helipad","continent":"OC","country_code":"AU","iso_region":"AU-NSW","region":"NSW"}
+{"airport_code":"ZA-0056","type":"small_airport","name":"Scottburg Airport","continent":"AF","country_code":"ZA","iso_region":"ZA-NL","region":"NL"}
+{"airport_code":"ZA-0094","type":"small_airport","name":"Hazyview Airport","continent":"AF","country_code":"ZA","iso_region":"ZA-MP","region":"MP"}
+{"airport_code":"ZA-0098","type":"small_airport","name":"Tshipise Airport","continent":"AF","country_code":"ZA","iso_region":"ZA-NP","region":"NP"}
+{"airport_code":"ZKSD","type":"medium_airport","name":"Sondok Airport","continent":"AS","country_code":"KP","iso_region":"KP-08","region":"08"}
+{"airport_code":"ZSWF","type":"medium_airport","name":"Weifang Airport","continent":"AS","country_code":"CN","iso_region":"CN-37","region":"37"}
+{"airport_code":"ZUNZ","type":"medium_airport","name":"Nyingchi Airport","continent":"AS","country_code":"CN","iso_region":"CN-54","region":"54"}
