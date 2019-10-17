@@ -112,19 +112,19 @@ $ pip install -r requirements.txt
     - Click on the __Admin tab__ and select __Connections__.
     - Under __Connections__, select __Create__.
     - In the Create tab enter the following creds:
-        - Conn Id: aws_credentials
-        - Conn Type: Amazon Web Services
-        - Login: Your <AWS Access Key ID>
-        - Password: <Your AWS Secret Access Key>
+        - Conn Id: `aws_credentials`
+        - Conn Type: `Amazon Web Services`
+        - Login: Your `<AWS Access Key ID>`
+        - Password: `<Your AWS Secret Access Key>`
     - Once done, click on __Save and Add Another__
     - On the new create page add the following:
-        - Conn Id: redshift
-        - Conn Type: Postgres
-        - Host: <Endpoint of your redshift cluster>
-        - Schema: <Redshift database name>
-        - Login: <Database username>
-        - Password: <Database password>
-        - Port: <Database port which is usually 5439>
+        - Conn Id: `redshift`
+        - Conn Type: `Postgres`
+        - Host: `<Endpointof your redshift cluster>`
+        - Schema: `<Redshift database name>`
+        - Login: `<Database username>`
+        - Password: `<Database password>`
+        - Port: `<Database port which is usually 5439>`
     - Click save
 7. Trigger the `file_upload_dag` first. This will upload the files to your s3 bucket. You can view the status of the dag tasks in the `Graph View` of the dag.
 8. Once the files are uploaded, you can trigger the `capstone_dag`that will create the necessary tables on redshift and load data to them, as well as perform data quality checks.
