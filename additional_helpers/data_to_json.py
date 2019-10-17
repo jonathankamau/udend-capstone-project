@@ -1,3 +1,4 @@
+""" Python executable file that generates the json data files """
 import configparser
 import os
 import re
@@ -6,12 +7,13 @@ import boto3
 from itertools import chain
 from pyspark import SparkConf
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import (split, lit, 
-                                   monotonically_increasing_id, 
-                                   udf, col, create_map, coalesce)
+from pyspark.sql.functions import (split, lit,
+                                   monotonically_increasing_id,
+                                   create_map, coalesce)
 
 
 class SaveToJson:
+    """ Generates the json data files """
 
     def __init__(self):
         config = configparser.ConfigParser()

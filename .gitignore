@@ -2,8 +2,8 @@
 I94_SAS_Labels_Descriptions.SAS
 Capstone Project Template (1).ipynb
 
-data/immigration_data/
-data/temperature_data/
+# data/immigration_data/
+# data/temperature_data/
 sas_data/
 logs/
 unittests.cfg
