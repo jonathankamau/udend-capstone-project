@@ -11,7 +11,7 @@ from pyspark.sql.functions import (split, lit,
                                    udf, col, create_map, coalesce)
 
 
-class SaveToParquet:
+class SaveToJson:
 
     def __init__(self):
         config = configparser.ConfigParser()
@@ -352,5 +352,5 @@ class SaveToParquet:
         # self.process_immigration_data(*method_arguments)
 
 
-# save_to_parquet = SaveToParquet()
+# save_to_parquet = SaveToJson()
 # save_to_parquet.execute()
