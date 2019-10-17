@@ -48,7 +48,7 @@ for data_type, table_name in staging_tables.items():
         dag=dag,
         table=table_name,
         drop_table=True,
-        s3_bucket='udend-processed-data',
+        s3_bucket='udend-data',
         s3_folder=data_type,
         aws_connection_id='aws_credentials',
         redshift_connection_id='redshift',

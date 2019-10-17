@@ -42,26 +42,25 @@ class RenderToS3Operator(BaseOperator):
         for data_folder in self.data_folders:
             files = os.listdir('./data/processed-data/' + data_folder)
 
-            for file in files:
+            for file_name in files:
                 self.log.info(
                     'Checking if {} file already exists...'.format(
-                        file)
+                        file_name)
                         )
                 check_for_file = s3_hook.check_for_prefix(
-                    bucket_name='{}-{}'.format(
-                        self.s3_bucket_name_prefix, data_folder),
-                    prefix='{}'.format(
-                        file.split('.')[0]
+                    bucket_name=self.s3_bucket_name_prefix,
+                    prefix='{}/{}'.format(
+                        data_folder,
+                        file_name.split('.')[0]
                     ),
                     delimiter='.')
                 if not check_for_file:
                     s3_hook.load_file(
                         filename='./data/processed-data/{}/{}'.format(
-                            data_folder, file),
-                        key=file,
-                        bucket_name='{}-{}'.format(
-                            self.s3_bucket_name_prefix, data_folder))
+                            data_folder, file_name),
+                        key='{}/{}'.format(data_folder, file_name),
+                        bucket_name=self.s3_bucket_name_prefix)
                 else:
                     self.log.info(
                         '{} already exists! Moving on to the next file'.format(
-                            file))
+                            file_name))
