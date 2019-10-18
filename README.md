@@ -81,6 +81,12 @@ The datasets used and sources include:
 - __U.S. City Demographic Data__: This data comes from OpenSoft [here](https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/).
 - __Airport Code Table__: This is a simple table of airport codes and corresponding cities that is retrieved from [here](https://datahub.io/core/airport-codes#data)
 
+### DAGs Airflow Graph View Representation
+#### File Upload DAG
+![capstone_dag](img/file_upload_dag.png "File Upload DAG")
+#### Capstone DAG
+![capstone_dag](img/capstone_dag.png "Capstone DAG")
+
 ## Installation
 Clone the repo from github by running:
 ```
