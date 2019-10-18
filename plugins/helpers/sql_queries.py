@@ -55,7 +55,7 @@ demographics_table = (
 fact_city_data_table = ("""
         CREATE TABLE IF NOT EXISTS public.fact_city_data_table (
                 city_id varchar(32) NOT NULL,
-                city_code varchar(32) NOT NULL,
+                city_name varchar(32) NOT NULL,
                 country varchar(32) NOT NULL,
                 latitude varchar(10) NOT NULL,
                 longitude varchar(10) NOT NULL,
@@ -102,7 +102,7 @@ dim_visitor_table = ("""
 fact_city_table_insert = ("""
         INSERT INTO fact_city_data_table (
         city_id,
-        city_code,
+        city_name,
         country,
         latitude,
         longitude,
