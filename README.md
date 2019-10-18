@@ -103,7 +103,7 @@ $ pip install -r requirements.txt
  ```
 
 ## Workflow/Process
-1. The json data files that were processed by spark are already part of this project's files. You can find them in `data/processed-data`. If you would wish to generate them from scratch, you can follow the same step by step process I went through [here](#Steps-to-generate-the-s3-bound-json-data-files)
+1. A sample size of the json data files that were processed by spark are already part of this project's files. You can find them in `data/processed-data`. If you would wish to generate them from scratch, you can follow the same step by step process I went through [here](#Steps-to-generate-the-s3-bound-json-data-files)
 2. On the terminal, ensure your virtualenv is set then add the AIRFLOW_HOME environment variable.
     ```
     $ export AIRFLOW_HOME=~/path/to/project
