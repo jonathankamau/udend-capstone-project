@@ -131,8 +131,8 @@ $ pip install -r requirements.txt
 
 
 ## Steps to generate the s3 bound json data files
-1. Pull the immigration files in SAS format from the udacity workspace or from the source then In the `data` directory, store them in the sub-directory folder called `immigration-data`.
-2. Retrieve the `GlobalLandTemperaturesByCity.csv`file from the udacity workspace and store it in the `temperature-data` subdirectory within the `data` directory. The other data files, namely `us-cities-demographics.csv` and `airport-codes.csv` are already provided in this project in the `data` folder.
+1. Pull the immigration files in SAS format from the udacity workspace or from the source then in the `data` directory, create a new directory named `immigration-data` where you will store them.
+2. Retrieve the `GlobalLandTemperaturesByCity.csv`file from the udacity workspace and create a `temperature-data` subdirectory within the `data` directory and save the file there. The other data files, namely `us-cities-demographics.csv` and `airport-codes.csv` are already provided in this project in the `data` folder.
 3. Navigate to the `additional_helpers` directory and run the following command:
     ```
     $ python data_to_json.py
