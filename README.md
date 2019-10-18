@@ -104,11 +104,15 @@ $ pip install -r requirements.txt
 
 ## Workflow/Process
 1. The json data files that were processed by spark are already part of this project's files. You can find them in `data/processed-data`. If you would wish to generate them from scratch, you can follow the same step by step process I went through [here](#Steps-to-generate-the-s3-bound-json-data-files)
-2. Run `airflow initdb` to setup the airflow db locally the run both the `airflow scheduler` and `airflow webserver` commands on seperate terminal windows. If you get a psycopg2 related error, you might need to check if the postgresql service is running on your computer.
-3. Once you run the above commands successfully you can open the airflow UI on localhost using port 8080 http://0.0.0.0:8080
-4. Navigate to your AWS s3 console and create a bucket named `udend-data`. If you wish to provide another name, ensure you set it in the `capstone_dag` and `file_upload_dag` operator configs for s3_bucket.
-5. Create a Redshift cluster with a redshift database. Once it's finished creating, take note of the endpoint and database credentials.
-6. Add your AWS and Redshift credentials in the airflow UI. You can accomplish this in the following steps:
+2. On the terminal, ensure your virtualenv is set then add the AIRFLOW_HOME environment variable.
+    ```
+    $ export AIRFLOW_HOME=~/path/to/project
+    ```
+3. Run `airflow initdb` to setup the airflow db locally the run both the `airflow scheduler` and `airflow webserver` commands on seperate terminal windows. If you get a psycopg2 related error, you might need to check if the postgresql service is running on your computer.
+4. Once you run the above commands successfully you can open the airflow UI on localhost using port 8080 http://0.0.0.0:8080
+5. Navigate to your AWS s3 console and create a bucket named `udend-data`. If you wish to provide another name, ensure you set it in the `capstone_dag` and `file_upload_dag` operator configs for s3_bucket.
+6. Create a Redshift cluster with a redshift database. Once it's finished creating, take note of the endpoint and database credentials.
+7. Add your AWS and Redshift credentials in the airflow UI. You can accomplish this in the following steps:
     - Click on the __Admin tab__ and select __Connections__.
     - Under __Connections__, select __Create__.
     - In the Create tab enter the following creds:
@@ -126,8 +130,8 @@ $ pip install -r requirements.txt
         - Password: `<Database password>`
         - Port: `<Database port which is usually 5439>`
     - Click save
-7. Trigger the `file_upload_dag` first. This will upload the files to your s3 bucket. You can view the status of the dag tasks in the `Graph View` of the dag.
-8. Once the files are uploaded, you can trigger the `capstone_dag`that will create the necessary tables on redshift and load data to them, as well as perform data quality checks.
+8. Trigger the `file_upload_dag` first. This will upload the files to your s3 bucket. You can view the status of the dag tasks in the `Graph View` of the dag.
+9. Once the files are uploaded, you can trigger the `capstone_dag`that will create the necessary tables on redshift and load data to them, as well as perform data quality checks.
 
 
 ## Steps to generate the s3 bound json data files
