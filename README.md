@@ -22,7 +22,7 @@ The project comprises of a redshift postgres database in the cluster with stagin
 | Table Column | Data Type | Description |
 | -------- | ------------- | --------- |
 | city_id (PRIMARY_KEY) | varchar(32)  | auto generated primary key|
-|  city_code | varchar(32) | name of city |
+|  city_name | varchar(32) | name of city |
 | country | varchar(32) | name of country |
 | latitude | varchar(10) | latitude value |
 | longitude | varchar(10) | longitude value |
