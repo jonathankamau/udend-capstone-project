@@ -1,5 +1,5 @@
 alembic==1.2.1
-apache-airflow==1.10.5
+apache-airflow==1.10.15
 apispec==2.0.2
 attrs==19.2.0
 Babel==2.7.0
